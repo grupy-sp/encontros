@@ -1,4 +1,4 @@
-#Palestras e slides do encontro do Grupy-SP em Junho/2015 - IBTA
+#[Palestras e slides do encontro do Grupy-SP em Junho/2015 - IBTA](http://www.meetup.com/pt/Grupy-SP/events/222731535/)
 
 ##[30min][My Python Way of Life - Fernando Masanori](http://pt.slideshare.net/fmasanori/import-community)
 
