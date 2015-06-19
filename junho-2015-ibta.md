@@ -32,7 +32,7 @@ Aqui apresento o porquê usar Python para analisar dados, quais ferramentas que 
 
 https://github.com/fxdx/python_data_analysis_example/
 
-##[15min]Physical Computing & Python - Bruno Godoi Eilliar
+##[15min][Physical Computing & Python - Bruno Godoi Eilliar](https://drive.google.com/file/d/0B4pZxMSi2PKrRHF6bDJRVHBOenc/view)
 
 Qual a melhor forma de ensinar o básico de programação orientada a objeto? Como fazer isso de forma divertida e ainda ensinar conceitos de Physical Computing? Nessa breve apresentação irei propor uma abordagem para ensinar programação orientada a objetos: construir o mini-game Invaders, utilizando nada mais que um Raspberry Pi, um display gráfico e 4 botões.
 
