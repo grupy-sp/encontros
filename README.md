@@ -24,7 +24,7 @@ Deixe a sua imaginação rolar, não há qualquer tipo de restrição. Nossos ú
 
 Geralmente acontece um encontro por mês, mas se houver mais, melhor ainda.
 
-### Como organizar um encontro no formado de palestras?
+### Como organizar um encontro no formato de palestras?
 
 Primeiramente é necessário encontrar um local onde haja projetor ou televisão para a exibição das transparências/slides. Depois é aberto o chamado para palestras, geralmente utilizamos a ferramenta do [Call4paperz](http://call4paperz.com/) ou [Speakerfight](http://speakerfight.com/). Basta criar o evento e fazer as chamadas nessas duas ferramentas.
 
