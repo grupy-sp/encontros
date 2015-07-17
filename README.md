@@ -54,15 +54,11 @@ Se o local tiver televisor com entrada para notebooks, é possível fazer uma ro
 
 ### Nossas redes sociais:
 
-[Facebook](https://www.facebook.com/grupysp)
-
-[Google Plus](https://plus.google.com/communities/117889929013238911492)
-
-[Twitter](https://twitter.com/grupysp)
-
-[Wiki](http://wiki.python.org.br/GrupySP)
-
-[Slack](https://grupysp.herokuapp.com/)
+* [Facebook](https://www.facebook.com/grupysp)
+* [Google Plus](https://plus.google.com/communities/117889929013238911492)
+* [Twitter](https://twitter.com/grupysp)
+* [Wiki](http://wiki.python.org.br/GrupySP)
+* [Slack](https://grupysp.herokuapp.com/)
 
 **De resto, conte com nossa ajuda (Eric e Diego) e nos vemos lá!**
 
