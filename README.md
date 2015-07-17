@@ -14,7 +14,7 @@ Atualmente os encontros estão sendo organizados e divulgados pelo Meetup ([http
 
 ### O que é necessário para organizar um encontro?
 
-Encontrar um lugar para ser realizado o encontro, marcar a data, horário e divulgar. A divulgação deve ser feita na lista de discussão no Google Groups do Grupy-SP. 
+Encontrar um lugar para ser realizado o encontro, marcar a data, horário e divulgar. A divulgação deve ser feita na lista de discussão no Google Groups do Grupy-SP.
 
 Quanto a divulgação no Meetup, tanto eu (Eric) quanto Diego nos comprometemos ajudar no que for necessário para auxiliar na organização e publicação no Meetup.
 
@@ -51,6 +51,19 @@ Assim como qualquer evento gratuito, infelizmente há a desistência frequente d
 Geralmente é um encontro informal bate papo, tipo #horaextra para conhecer novas pessoas e discutir. Novamente, vai da sua imaginação como queira organizar.
 
 Se o local tiver televisor com entrada para notebooks, é possível fazer uma rodada de lightning talks. Não indico para palestras pois o barulho poderá atrapalhar.
+
+### Nossas redes sociais:
+
+[Facebook](https://www.facebook.com/grupysp)
+
+[Google Plus](https://plus.google.com/communities/117889929013238911492)
+
+[Twitter](https://twitter.com/grupysp)
+
+[Wiki](http://wiki.python.org.br/GrupySP)
+
+
+Documentação dos encontros
 
 **De resto, conte com nossa ajuda (Eric e Diego) e nos vemos lá!**
 
