@@ -62,8 +62,5 @@ Se o local tiver televisor com entrada para notebooks, é possível fazer uma ro
 
 [Wiki](http://wiki.python.org.br/GrupySP)
 
-
-Documentação dos encontros
-
 **De resto, conte com nossa ajuda (Eric e Diego) e nos vemos lá!**
 
