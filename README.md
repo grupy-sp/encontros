@@ -26,9 +26,9 @@ Geralmente acontece um encontro por mês, mas se houverem mais, melhor ainda.
 
 ### Como organizar um encontro no formato de palestras?
 
-Primeiramente é necessário encontrar um local onde haja projetor ou televisão para a exibição das transparências/slides. Depois é aberto o chamado para palestras, geralmente utilizamos a ferramenta do [Call4paperz](http://call4paperz.com/) ou [Speakerfight](http://speakerfight.com/). 
+Primeiramente é necessário encontrar um local onde haja projetor ou televisão para a exibição das transparências/slides. Depois é aberto o chamado para palestras, geralmente utilizamos a ferramenta do [Call4paperz](http://call4paperz.com/) ou [Speakerfight](http://speakerfight.com/).
 
-Basta criar o evento e fazer as chamadas nessas em uma dessas ferramentas.Ou se preferir, poderá ser feito a inscrição pelo Google Forms. 
+Basta criar o evento e fazer as chamadas nessas em uma dessas ferramentas.Ou se preferir, poderá ser feito a inscrição pelo Google Forms.
 
 Há também a possibilidade de fazer o evento com palestrantes convidados.
 
@@ -61,6 +61,7 @@ Se o local tiver televisor com entrada para notebooks, é possível fazer uma ro
 * [Twitter](https://twitter.com/grupysp)
 * [Wiki](http://wiki.python.org.br/GrupySP)
 * [Slack](https://grupysp.herokuapp.com/)
+* [Flickr](https://www.flickr.com/photos/37128592@N03/albums)
 
 **De resto, conte com nossa ajuda (Eric e Diego) e nos vemos lá!**
 

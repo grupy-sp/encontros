@@ -1,5 +1,7 @@
 #[Palestras e slides do encontro Grupy-SP em Abril/2015 - Magazine Luiza](http://www.meetup.com/Grupy-SP/events/221188662/)
 
+### [Fotos do encontro](https://www.flickr.com/photos/37128592@N03/sets/72157654095596804)
+
 ## [30 min] [Análise dos Campeões da São Silvestre em Python - Wilson Freitas](http://www.slideshare.net/wfreitas/analise-dos-campeoes-da-corrida-de-sao-silvestre-com-python)
 Uma análise de dados completa em Python baseada no histórico de campeões da Corrida de São Silvestre. Da captura dos dados na Internet a análise estatística. Serão apresentados exemplos práticos de bibliotecas populares no stack científico de Python como: numpy, scipy, IPython, pandas, matplotlib, seaborn, statsmodels e outras menos conhecidas.
 
@@ -21,7 +23,7 @@ Entenda como guiar seu desenvolvimento pelo comportamento desejado pode melhorar
 Irei falar rapidamente como consegui fazer com que a empresa onde trabalho passasse a utilizar Python em seus produtos e a gostar da plataforma tanto quanto eu. Não será abordado conteúdo técnico, mas sim uma troca de ideias com o pessoal que atualmente trabalha com outras tecnologias e tem vontade de trabalhar com Python.
 
 ## [30 min] [Girando Pratos: Concorrência com Futures em Python - Luciano Ramalho](https://speakerdeck.com/ramalho/girando-pratos-concorrencia-moderna-em-python)
-Novidades como o concurrent.futures, delegação de co-rotinas com yield from e o módulo asyncio representam um capítulo novo na evolução de Python, e são as melhores razões para migrar para Python 3. 
+Novidades como o concurrent.futures, delegação de co-rotinas com yield from e o módulo asyncio representam um capítulo novo na evolução de Python, e são as melhores razões para migrar para Python 3.
 Esta palestra mostrará como essas ferramentas tornam a programação concorrente acessível até mesmo para programadores casuais, com aumentos dramáticos de desempenho em clientes e servidores na rede.
 
 ## [15 min] [Python e Wifi - Arnaldo Pereira]()

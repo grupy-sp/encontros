@@ -1,5 +1,7 @@
 #[Palestras e slides do encontro Grupy-SP em Março/2015 - Novatec](http://www.meetup.com/pt/Grupy-SP/events/220656720/)
 
+### [Fotos do encontro](https://www.flickr.com/photos/37128592@N03/sets/72157656020119188)
+
 ## [30 min] [Como ganhei meu primeiro milhão - Thiago Avelino](http://go-talks.appspot.com/github.com/avelino/slides/como-ganhei-meu-primeiro-milhao-com-xxx.slide#1)
 
 ### [Vídeo](https://www.youtube.com/watch?v=dPv6Q_5Ctd4)

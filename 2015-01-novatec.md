@@ -1,5 +1,7 @@
 #[Palestras e slides do encontro Grupy-SP em Janeiro/2015 - Novatec](http://www.meetup.com/pt/Grupy-SP/events/219248903/)
 
+### [Fotos do encontro](https://www.flickr.com/photos/37128592@N03/sets/72157656019870108)
+
 ## [35 min] Python Fluente: melhores momentos - Luciano Ramalho
 Esta palestra será uma selecão de dicas e exemplos do meu livro Fluent Python, que estou terminando de escrever agora. Tópicos a serem abordados:
 * Mistérios do Unicode esclarecidos, inclusive no Windows!
