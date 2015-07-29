@@ -2,6 +2,8 @@
 
 ### [Fotos do encontro](https://www.flickr.com/photos/37128592@N03/sets/72157654095596804)
 
+### Agradecimento especial ao Diego Garcia por organizar esse encontro.
+
 ## [30 min] [Análise dos Campeões da São Silvestre em Python - Wilson Freitas](http://www.slideshare.net/wfreitas/analise-dos-campeoes-da-corrida-de-sao-silvestre-com-python)
 Uma análise de dados completa em Python baseada no histórico de campeões da Corrida de São Silvestre. Da captura dos dados na Internet a análise estatística. Serão apresentados exemplos práticos de bibliotecas populares no stack científico de Python como: numpy, scipy, IPython, pandas, matplotlib, seaborn, statsmodels e outras menos conhecidas.
 
