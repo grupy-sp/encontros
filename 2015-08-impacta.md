@@ -38,10 +38,14 @@ Pretendo explicar o funcionamento das operações básicas de CRUD no MongoDB ut
 
 Para monitorar mudanças no lado servidor muitas vezes lançamos mão do polling ou seja, várias chamadas subsequentes ao servidor, onerando toda a estrutura envolvida. Mostrarei uma forma de implementar o long polling usando o Tornado (não blocante) e a facilidade PUB\SUB do REDIS. Com long polling a chamada REST só retorna se houver resposta (200 OK) ou por time-out (304 NOT MODIFIED).
 
-###Robô JUDITO - A ideia e porquê escolhi o Python - Cleiton Fermino
+###[15 min]Robô JUDITO - A ideia e porquê escolhi o Python - Cleiton Fermino
 
 Sempre gostei de Inteligência Artificial, e sempre sonhei em ter meu próprio J.A.R.V.I.S, então pensei em iniciar um usando Arduino. Mas pesquisando vi que iria gastar um alto valor com shields e etc. Então pensei em Python + Rasp PI, nisto iniciei os estudos e o desenvolvimento do robô. Ainda em fase de desenvolvimento, mas espero que consiga demonstrar a ideia e algumas funcionalidades.
 
 ### Javascript Para Adultos - Diego Rafael Perin Honorio
 
 No javascript existem alguns conceitos que nem sempre são conhecidos a fundo, diante dessa falta de conhecimento existem várias pessoas que passam por vários problemas. o seguintes temas: - Histórico do javascript; - Fundamentos Javascript; - NodeJS; - ES 6 (Grandes Aprimoramentos na Linguagem);
+
+### [15 min]Não faça isso em casa: um keylogger em Python - Luiz Antonio de Menezes Filho (Joca)
+
+Nesta palestra mostrarei como criar um keylogger em Python utilizando a biblioteca PyCaptura (criada por mim) que, por sua vez, utiliza a Xlib para realizar a captura do teclado (funciona para as distros linux em geral).
