@@ -2,7 +2,7 @@
 
 Para rodar o script é necessário que utilize a versão 3 do Python e que insira a lista dos presentes no encontro através da plataforma do Meetup.
 
-O que é isso? É de comer?
+####O que é isso? É de comer?
 
 É um script feito em python (versão 3) pelo [Mário Guedes](http://www.meetup.com/Grupy-SP/members/150470042/) para realização de sorteio de brindes.
 
