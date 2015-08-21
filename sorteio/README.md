@@ -1,6 +1,6 @@
 #Script para sorteio de brindes nos encontros do GruPy-SP
 
-Para rodar o script é necessário que utilize a versão 3 do Python e que insira a lista dos presentes no encontro através da plataforma do Meetup.
+Para rodar o script é necessário que tenha Python instalado em seu computador e que insira a lista dos presentes no encontro através da plataforma do Meetup.
 
 ####O que é isso? É de comer?
 
