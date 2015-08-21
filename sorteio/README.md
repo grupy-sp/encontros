@@ -20,5 +20,7 @@ Para encerrar o script, basta apertar CTRL + C e rodar novamente.
 
 ![Sorteio Python](sorteio_de_brindes.png)
 
+[Vídeo demonstração](https://www.youtube.com/watch?v=pNxYGV1erjc&feature=youtu.be)
+
 Caso haja dúvidas, entre em contato em [eric8197@gmail.com](mailto:eric8197@gmail.com)
 
