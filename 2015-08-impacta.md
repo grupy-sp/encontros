@@ -28,7 +28,7 @@ Pretendo mostrar como automatizar testes funcionais rapidamente usando Selenium 
 
 Pretendo explicar o funcionamento das operações básicas de CRUD no MongoDB utilizando a biblioteca Pymongo. Nesta LT não pretendo abordar vantagens e desvantagens de se usar MongoDB!
 
-### Javascript Para Adultos - Diego Rafael Perin Honorio
+### [Javascript Para Adultos - Diego Rafael Perin Honorio](http://pt.slideshare.net/DiegoHonorio2/java-script-para-adultos)
 
 No javascript existem alguns conceitos que nem sempre são conhecidos a fundo, diante dessa falta de conhecimento existem várias pessoas que passam por vários problemas. o seguintes temas: - Histórico do javascript; - Fundamentos Javascript; - NodeJS; - ES 6 (Grandes Aprimoramentos na Linguagem);
 
