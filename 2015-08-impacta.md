@@ -36,6 +36,6 @@ No javascript existem alguns conceitos que nem sempre são conhecidos a fundo, d
 
 Palestra introdutória sobre o uso do Docker para facilitar a criação de ambientes de desenvolvimento e testes, e também de deploy, para aplicações escritas em Python.
 
-### [15 min]Não faça isso em casa: um keylogger em Python - Luiz Antonio de Menezes Filho (Joca)
+### [15 min][Não faça isso em casa: um keylogger em Python - Luiz Antonio de Menezes Filho (Joca)](https://speakerdeck.com/luizmenezes/nao-faca-isso-em-casa-pycaptura-um-keylogger-em-python)
 
 Nesta palestra mostrarei como criar um keylogger em Python utilizando a biblioteca PyCaptura (criada por mim) que, por sua vez, utiliza a Xlib para realizar a captura do teclado (funciona para as distros linux em geral).
