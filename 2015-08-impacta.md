@@ -16,6 +16,8 @@ Nesta palestra serão abordadas noções preliminares de Python voltado à compu
 
 ### [30 min] [Deploy automatizado no OpenShift com Flask, MongoDB, github e WerckerCI - Bruno Rocha](http://pt.slideshare.net/rochacbruno/python-flask-app-deployed-to-openshift-using-wercker-ci)
 
+#### [Vídeo](https://www.youtube.com/watch?v=U6uCBoF68WE)
+
 Irei mostrar uma aplicação web feita com Flask acessando um banco de dados MongoDB sendo "deployada" automaticamente para o OpenShift usando github+werckerCI. Usaremos o plano free do OpenShift.
 
 ###[30 min] Coffee Break - Patrocínio G4 Solutions
@@ -33,6 +35,8 @@ Pretendo explicar o funcionamento das operações básicas de CRUD no MongoDB ut
 No javascript existem alguns conceitos que nem sempre são conhecidos a fundo, diante dessa falta de conhecimento existem várias pessoas que passam por vários problemas. o seguintes temas: - Histórico do javascript; - Fundamentos Javascript; - NodeJS; - ES 6 (Grandes Aprimoramentos na Linguagem);
 
 ### [Introdução ao Docker (+Python) - David Kwast](https://speakerdeck.com/davidkwast/introducao-ao-docker-plus-python)
+
+#### [Vídeo](https://www.youtube.com/watch?v=zIHXYXq6zQ0)
 
 Palestra introdutória sobre o uso do Docker para facilitar a criação de ambientes de desenvolvimento e testes, e também de deploy, para aplicações escritas em Python.
 
