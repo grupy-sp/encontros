@@ -10,7 +10,9 @@ Prova de conceito de como votações e sistemas onlines que utilizam captcha pod
 
 Python App Webs geralmente persistem seus dados em SGBDs. O objetivo deste talk é discutir os cuidados que devem ser tomados contra fragilidades de injeção maliciosa de comandos SQL, que podem explorar e comprometer todos os dados de uma aplicação. Sendo este o segundo capítulo sobre validação de dados, será apresentado o Chopão, um e-commerce divertidamente vulnerável.Mais SecPy? br.secpy.org
 
-### [15 min] Computação científica com Python - Alexandre Fioravante de Siqueira
+### [15 min] [Computação científica com Python - Alexandre Fioravante de Siqueira](https://speakerdeck.com/alexandrejaguar/computacao-cientifica-com-python-grupy-sp-agosto-de-2015)
+
+####[Vídeo](https://www.youtube.com/watch?v=RCI7D6WaQZg)
 
 Nesta palestra serão abordadas noções preliminares de Python voltado à computação científica. Pacotes de extensão, como numpy, scipy, matplotlib, scikit-learn, scikit-image, entre outros, também serão apresentados. O objetivo é disseminar o uso de software livre em aplicações científicas por meio de universidades, laboratórios e instituições de ensino.
 
@@ -24,9 +26,13 @@ Irei mostrar uma aplicação web feita com Flask acessando um banco de dados Mon
 
 ###[30 min]Testes com Selenium - Jayme Neto
 
+####[Vídeo](https://www.youtube.com/watch?v=cf7YTxhfI8A)
+
 Pretendo mostrar como automatizar testes funcionais rapidamente usando Selenium IDE, Webdriver e Grid e algumas práticas para deixar seu código mais limpo e organizado.
 
 ###[15 min] [MongoDB CRUD (Create, Read, Update e Delete) com Pymongo - Rafael Henrique da Silva Correia](https://speakerdeck.com/rafaelhenrique/mongodb-crud-create-read-update-e-delete-com-pymongo)
+
+#### [Vídeo](https://www.youtube.com/watch?v=bd3T8ORvWXY)
 
 Pretendo explicar o funcionamento das operações básicas de CRUD no MongoDB utilizando a biblioteca Pymongo. Nesta LT não pretendo abordar vantagens e desvantagens de se usar MongoDB!
 
