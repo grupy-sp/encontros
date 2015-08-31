@@ -2,6 +2,8 @@
 
 ### Agradecimento especial ao [Mário Guedes](http://www.meetup.com/Grupy-SP/members/150470042/) por organizar esse encontro e a [G4 solutions](http://www.g4solutions.com.br/) pelo patrocínio.
 
+### [Fotos do evento](https://drive.google.com/folderview?id=0Bzef4Q95W9clfnRneGtIV1dCcWo4MzczcnJ6Qkc4UmpZRnVicXdMVi1ORlJhdDg1Rk9pSkU&usp=sharing)
+
 ###[15 min] [Crawleando dados - Danilo Vaz](https://docs.google.com/presentation/d/1S2PCQ4Yo7yXyz6oT3qWIaOVyf_SLMnuUFycTQvEhSrQ/edit#slide=id.p)
 
 Prova de conceito de como votações e sistemas onlines que utilizam captcha podem ser burladas a fim de consumir serviços públicos tais como Receita Federal e Sefaz, utilizando o mesmo método também para manipular votações que utilizam captcha como proteção ou até mesmo paginas sem captchas.
