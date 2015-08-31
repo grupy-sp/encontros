@@ -24,7 +24,7 @@ Irei mostrar uma aplicação web feita com Flask acessando um banco de dados Mon
 
 ###[30 min] Coffee Break - Patrocínio G4 Solutions
 
-###[30 min]Testes com Selenium - Jayme Neto
+###[15 min] [Testes com Selenium - Jayme Neto] (http://www.slideshare.net/kalkehcoisa1/testes-com-selenium)
 
 ####[Vídeo](https://www.youtube.com/watch?v=cf7YTxhfI8A)
 
