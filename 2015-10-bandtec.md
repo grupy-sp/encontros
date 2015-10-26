@@ -24,7 +24,7 @@ Se Charlie Chaplin conhecesse Fabric, a única revolução que aconteceria seria
 
 ###Utilize Python, Flask e MongoDB em seu próximo projeto com o Quokka CMS - Bruno Rocha
 
-###[Vídeo](https://www.youtube.com/watch?v=eZrboFfBDFw)
+###[![Vídeo](http://img.youtube.com/vi/eZrboFfBDFw/0.jpg)](http://www.youtube.com/watch?v=eZrboFfBDFw)
 
 Apresentar a versão 1.0RC do Quokka CMS que é um framework para gestão de conteúdo e desenvolvimento de aplicativos web voltados a contéudo. [http://www.quokkaproject.org](http://www.quokkaproject.org).
 
