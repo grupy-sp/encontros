@@ -22,7 +22,7 @@ Nesta palestra pretendo apresentar como pode ser fácil explorar visão computac
 
 Se Charlie Chaplin conhecesse Fabric, a única revolução que aconteceria seria na sua produtividade. Ele não teria ficado louco, nem participado de uma revolução comunista. Nesse light talk, vou abordar como automatizar tarefas com Fabric. Você tem o esforço de apertar apenas um parafuso e faz com que "n" parafusos sejam apertados com um único comando.
 
-###Utilize Python, Flask e MongoDB em seu próximo projeto com o Quokka CMS - Bruno Rocha
+###[Utilize Python, Flask e MongoDB em seu próximo projeto com o Quokka CMS](http://www.slideshare.net/rochacbruno/quokka-cms-desenvolvendo-web-apps-com-flask-e-mongodb-grupy-outubro-2015) - Bruno Rocha
 
 ###[Vídeo](https://www.youtube.com/watch?v=eZrboFfBDFw)
 
