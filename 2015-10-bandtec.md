@@ -6,7 +6,7 @@
 
 Apresentar a profissão de "data scientist", os mitos da existência de um desenvolvedor Full-Stack e a importãncia do "Data Developer" o braço de engenharia de software e DevOPs dentro de um time de Data Science.
 
-###[30 min] Data Science na vida real: como me casei influenciado por seus princípios - Fábio Costa
+###[30 min] [Data Science na vida real: como me casei influenciado por seus princípios - Fábio Costa](https://drive.google.com/file/d/0B0-UuJ00q5ImUEJyamxfbEp5QTQ/view)
 
 O objetivo desta palestra é explicar como a junção de Estatística, Computação e conhecimento de negócio está dando origem a uma nova ciência, com métodos, paradigmas e técnicas bem específicas. Apresentarei alguns casos interessantes e explicarei como, utilizando seus princípios, encontrei e me casei com minha esposa. Também darei uma breve visão das principais oportunidades para nós!
 
