@@ -36,7 +36,7 @@ Uma breve introdução à linguagem Scala focada em programadores Python. Todos 
 
 Vamos sair do básico em modelagem de dados explorando ao máximo o ORM do Django, pois esse é o ponto forte do framework. E vamos criar nossa própria fixtures para explorar mais os comandos do Python e do Django.
 
-
+[+ slides on speakerdeck](https://speakerdeck.com/rg3915/explorando-o-orm-do-django)
 
 
 
