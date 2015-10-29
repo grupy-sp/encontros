@@ -14,7 +14,7 @@ O objetivo desta palestra é explicar como a junção de Estatística, Computaç
 
 Pretendo neste LT abordar um pouco do funcionamento do Framework Scrapy (http://scrapy.org/) e como começar a usá-lo. Esta LT é voltada a iniciantes.
 
-###[30min] Easy Computer Vision w/ Python and OpenCV - Bruno Godoi Eilliar
+###[30min] [Easy Computer Vision w/ Python and OpenCV - Bruno Godoi Eilliar](https://github.com/grupy-sp/encontros/blob/master/slides/OpenCV-e-Robotica.pptx)
 
 Nesta palestra pretendo apresentar como pode ser fácil explorar visão computacional com Python e OpenCV. Vamos focar no básico de aquisição de imagens de uma webcam, tracker objetos coloridos em um Streaming de vídeo, Face tracking, detecção de vértices e bordas, além de um projeto para criar um robô móvel que interprete informações visuais para sair de um labirinto.
 
