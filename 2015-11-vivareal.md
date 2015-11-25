@@ -49,3 +49,7 @@ Em vez de:
     df = rename(select(df, 'one), one='new one')
 
 Essa mini-palestra exibe uma possível solução, discute os métodos mágicos de um objeto Python que permitem sobrecarregar os operadores, e discute quando é idiomático faze-lo.
+
+A apresentação foi feita usando-se um IPython Notebook que está publicado no github:
+
+ * [https://github.com/scardine/palestra-grupy-2015-11](https://github.com/scardine/palestra-grupy-2015-11)
