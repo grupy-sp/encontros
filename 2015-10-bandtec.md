@@ -1,4 +1,4 @@
-#[Slides do encontro do Grupy-SP em Outubro/2015](http://www.meetup.com/pt/Grupy-SP/events/225100888/)
+#[Palestras e slides do encontro do Grupy-SP em Outubro/2015](http://www.meetup.com/pt/Grupy-SP/events/225100888/)
 
 ### Agradecimento especial ao Carlos Rafael e Sandro Melo da [Bandtec](http://www.bandtec.com.br/) pelo espaço cedido.
 
