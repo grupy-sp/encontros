@@ -16,7 +16,7 @@ Principal ponto fraco: o número de linhas para criar uma grande variedade de in
 
 mas quem quiser olhar: http://github.com/jsbueno/mapengine
 
-###[30min] Palestra convidada Vivareal - Gian
+###[30min] [Palestra convidada Vivareal | Continuous Delivery - Giancarlo Rubio](https://github.com/gianrubio/grupy-CI)
 
 ###[20min] [Python-EVE - APIs REST profissionais em poucas linhas - Rudá Porto](http://pt.slideshare.net/rudaporto/python-eve-apis-restful-profissionais-em-poucas-linhas)
 
