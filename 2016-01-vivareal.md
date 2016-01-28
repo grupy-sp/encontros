@@ -34,14 +34,3 @@ Veremos:
 
 O que é um objeto e como criar e trabalhar com eles, usando a linguagem de programação Python.
 
-### Introdução (curta) à Complexidade de Algoritmos - Maurício Vieira 
-
-* O que é complexidade de algoritmos, e porque isto importa?
-
-* Complexidade de tempo.
-
-* Complexidade de espaço.
-
-* Exemplos de algoritmos em python
-
-
