@@ -32,7 +32,7 @@ Veremos:
 
 [Slides](https://speakerdeck.com/rg3915/tutorial-django-simples)
 
-### [Objetos no Python - Chris Maillefaud](https://github.com/grupy-sp/encontros/blob/master/slides/Objetos no Python.pttx)
+### [Objetos no Python - Chris Maillefaud](https://github.com/grupy-sp/encontros/blob/master/slides/Objetos%20no%20Python.pptx)
 
 O que é um objeto e como criar e trabalhar com eles, usando a linguagem de programação Python.
 
