@@ -2,7 +2,7 @@
 
 ## Repositório do GruPy-SP - Grupo de usuários de Python do Estado de São Paulo
 
-### Quer organizar um evento do GruPy-SP? Veja nosso documento sobre o que fazer
+### [Quer organizar um evento do GruPy-SP? Veja nosso documento sobre o que fazer](https://github.com/grupy-sp/encontros/blob/master/como-organizar-um-grupysp.md)
 
 ### Redes sociais:
 
