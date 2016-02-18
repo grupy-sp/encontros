@@ -53,6 +53,12 @@ Geralmente é um encontro informal bate papo, tipo #horaextra para conhecer nova
 
 Se o local tiver televisor com entrada para notebooks, é possível fazer uma rodada de lightning talks. Não indico para palestras pois o barulho poderá atrapalhar.
 
+### Materiais de apoio
+
+Apresentação de como organizar um evento do GruPy-SP: [slides](https://docs.google.com/presentation/d/1pGEf2BIsVSDR-f47rEnfb45eT19-glfVTbvZhBI1EQA/pub?start=false&loop=false&delayms=30000&slide=id.gf1a67fd25_0_714)
+
+Vídeo apresentação - [https://www.youtube.com/watch?v=KuhfA54Us9o](https://www.youtube.com/watch?v=KuhfA54Us9o)
+
 ### Nossas redes sociais:
 
 * [Facebook](https://www.facebook.com/grupysp)
