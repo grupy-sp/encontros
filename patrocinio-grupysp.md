@@ -2,14 +2,7 @@
 
 #O que é o GruPy-SP?
 
-O Grupy-SP é composto por apaixonados pela linguagem Python e tecnologia. 
-
-São muito bem vindos pessoas de outras tecnologias, de qualquer nível de conhecimento, desde a pessoa iniciante até o mais experiente. 
-
-O grupo atualmente tem 1450 membros no Meetup.com, além dos membros nas listas de discussões no Google Groups.
-
-Realizamos encontros mensais ao redor do Estado de São Paulo.
-
+O Grupy-SP é composto por apaixonados pela linguagem Python e tecnologia. O grupo atualmente tem 1450 membros no Meetup.com, além dos membros nas listas de discussões no Google Groups, onde realizamos encontros mensais ao redor do Estado de São Paulo.
 
 ##Por que patrocinar?
 
@@ -53,7 +46,7 @@ Já realizamos eventos eventos pequenos (De 10 a 20 pessoas) e grandes (80 a 120
 
 Geralmente nossos coffee breaks são compostos por:
 
-**Comida**
+####Comida
 
 - Biscoitos
 - Bolachas
@@ -68,7 +61,7 @@ Geralmente nossos coffee breaks são compostos por:
 Pedimos que haja uma opção vegetariana aos participantes, mas não é obrigatório opções como vegan ou livre de glúten.
 
 
-**Bebidas**
+####Bebidas
 
 - Refrigerantes
 - Sucos
@@ -89,3 +82,13 @@ Geralmente há sorteio de:
 - Adesivos
 
 Se sua empresa quiser fazer uma parceria na criação de camisetas e canecas com o GruPy-SP, entre em contato. Temos alguns exemplos de camisetas e canecas que podem ser oferecidos aos participantes - [http://www.vitrinepix.com.br/python](http://www.vitrinepix.com.br/python)
+
+### Redes sociais:
+
+* [Facebook](https://www.facebook.com/grupysp)
+* [Google Plus](https://plus.google.com/communities/117889929013238911492)
+* [Twitter](https://twitter.com/grupysp)
+* [Wiki](http://wiki.python.org.br/GrupySP)
+* [Slack](https://grupysp.herokuapp.com/)
+* [Flickr](https://www.flickr.com/photos/37128592@N03/albums)
+* [Telegram](https://telegram.me/joinchat/CquhWAgxneh4k9v6CQH0wg)
