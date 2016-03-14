@@ -4,13 +4,9 @@
 
 #[Conceitos básicos e estrutura de dados com Python - Eduardo Mendes](https://docs.google.com/presentation/d/15Pzujvuv02mGd1IfAk0D-TDmIxRqq6N2hRzmKF7Gn0I/edit?usp=sharing)
 
-<img src="http://photos1.meetupstatic.com/photos/event/d/a/5/e/600_447655902.jpeg">
-
 Formado em Segurança da informação pela Fatec, apaixonado por software livre e criador de muitos lambdas. 
 
 #[Python com TDD e desenvolvimento de aplicações web com Flask - Eduardo Cuducos](http://pythonclub.com.br/tdd-com-python-e-flask.html)
-
-<img src="http://photos4.meetupstatic.com/photos/event/d/9/8/7/600_447655687.jpeg">
 
 I’m a sociologist, I know how to code, I love cooking helthy food, and there is paper back home that says I hold a BA in design. These are different approaches I’ve found to explore our culture and lifestyle.
 
@@ -21,8 +17,6 @@ In sum I’m a geek interested in sociology, collaborative economy and crowdsour
 I’m based in Brazil and in the UK.
 
 #Tutores
-
-Tutores
 
 - Alan Justino da Silva 
 
