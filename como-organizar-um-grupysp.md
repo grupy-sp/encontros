@@ -9,13 +9,13 @@ Para organizar encontros do Grupy-SP é necessário apenas de:
 
 Os encontros não são restritos apenas a faculdades ou empresas, podem ser feitos em bares, praças e locais públicos, basta alinhar o intuito/formato do evento ao local.
 
-Atualmente os encontros estão sendo organizados e divulgados pelo Meetup ([http://www.meetup.com/pt/Grupy-SP/](http://www.meetup.com/pt/Grupy-SP/)), com o Eric Hideki ([eric8197@gmail.com](mailto:eric8197@gmail.com)) e Diego Garcia ([drgarcia1986@gmail.com](mailto:drgarcia1986@gmail.com)) como coordenadores, além também da lista de discussão do grupo no Google Groups ([https://groups.google.com/forum/#!forum/grupy-sp](https://groups.google.com/forum/#!forum/grupy-sp)).
+Atualmente os encontros estão sendo organizados e divulgados pelo Meetup ([http://www.meetup.com/pt/Grupy-SP/](http://www.meetup.com/pt/Grupy-SP/)). 
 
 # O que é necessário para organizar um encontro?
 
 Encontrar um lugar para ser realizado o encontro, marcar a data, o horário e divulgar. A divulgação deve ser feita na lista de discussão no Google Groups do Grupy-SP.
 
-Quanto a divulgação no Meetup, tanto eu (Eric) quanto o Diego nos comprometemos ajudar no que for necessário para auxiliar na organização e publicação no Meetup.
+Quanto a divulgação no Meetup, basta entrar em contato que auxiliaremos na criação do evento no meetup.
 
 # Qual data/horário podem ser feito os encontros?
 
@@ -43,9 +43,11 @@ O Coffee-break não é obrigatório, mas se o local oferecer e tiver disponibili
 
 Geralmente dê preferência a locais de fácil acesso, principalmente pelo metrô.
 
-Durante a semana, os horários mais indicados são das 19h às 22h. Aos sábados, das 9h às 12h.
+Durante a semana, os horários mais indicados são das 19h às 22h. Aos sábados, das 9h às 12h. E também leve em consideração pessoas com necessidades especiais, como deficientes físico e/ou cadeirantes.
 
 Assim como qualquer evento gratuito, infelizmente há a desistência frequente da quantidade total de inscritos, uma proporção de 70%. Se no local cabem 40 pessoas, abra 75 vagas. Se cabem 100 pessoas, abra 150 vagas, e assim por diante.
+
+Para entender melhor um pouco a dinâmica de organizar um evento, indicamos que leia esse texto sobre o Meetup - [https://blog.devbeers.io/o-custo-do-rsvp-aos-organizadores-de-meetups-d6cf45ccb470](https://blog.devbeers.io/o-custo-do-rsvp-aos-organizadores-de-meetups-d6cf45ccb470)
 
 # Encontros no bar
 
@@ -68,6 +70,7 @@ Vídeo apresentação - [https://www.youtube.com/watch?v=KuhfA54Us9o](https://ww
 * [Slack](https://grupysp.herokuapp.com/)
 * [Flickr](https://www.flickr.com/photos/37128592@N03/albums)
 * [Telegram](https://telegram.me/joinchat/CquhWAgxneh4k9v6CQH0wg)
+* [IRC](http://webchat.freenode.net/?channels=grupy-sp)
 
 **De resto, conte com nossa ajuda e nos vemos lá!**
 
