@@ -52,4 +52,4 @@ Corrija seus próprios exercícios de lógica de programação e/ou melhore a qu
 
 Script para gerar rapidamente um projeto [Django](https://www.djangoproject.com/) em [Linux](https://gist.github.com/rg3915/456426205926004c9076) e em [Mac](https://gist.github.com/rg3915/a264d0ade860d2f2b4bf).
 
-Requer o [pyenv](git@github.com:rg3915/encontros.git) e o Python 3.x.
+Requer o [pyenv](https://github.com/yyuu/pyenv#installation) e o Python 3.x.
