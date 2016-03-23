@@ -40,7 +40,7 @@ O Dynaconf automatiza esse processo! "from dynaconf import settings" e fique tra
 
 De tempos eu tive a ideia de criar uma ferramenta onde eu pudesse procurar de forma automatizada por trechos de códigos no github, não sei se os senhores sabem, mas muitas pessoas acreditam estar seguras no GitHub publicando seus códigos com arquivos de configurações com senhas de ambiente de produção achando que ninguém vai pesquisar ou achar seu repositório, engano delas, nessa talk eu demonstro de forma prática que essa atitude pode prejudicar o programador
 
-# [Test First - Régis Silva](https://github.com/rg3915/test-first)
+# [Test First - Régis da Silva](https://github.com/rg3915/test-first)
 
 Esta é a parte, talvez, mais importante do seu código, pois com ele você mesmo pode validar seu código.
 
@@ -48,3 +48,8 @@ Corrija seus próprios exercícios de lógica de programação e/ou melhore a qu
 
 #Lightning talks
 
+## Boilerplate Django Project - Régis da Silva
+
+Script para gerar rapidamente um projeto [Django](https://www.djangoproject.com/) em [Linux](https://gist.github.com/rg3915/456426205926004c9076) e em [Mac](https://gist.github.com/rg3915/a264d0ade860d2f2b4bf).
+
+Requer o [pyenv](git@github.com:rg3915/encontros.git) e o Python 3.x.
