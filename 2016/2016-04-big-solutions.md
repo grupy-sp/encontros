@@ -17,4 +17,8 @@
 ##[Tema: Afinal, o que o Python achou do Impeachment?] (https://speakerdeck.com/vmesel/afinal-o-que-o-python-achou-do-impeachment)
 *Palestrante*: Vinicius Mesel
 
-###[Encurtador de URL citado nos Lightning Talks](http://wp-a.co)
+## Lightning Talks
+
+###[Encurtador de URL](http://wp-a.co) - Vinicius Mesel
+
+###[Cuidado com os comandos perigosos do Shell](http://grandeportal.github.io/shell/2016/cuidado-com-comandos-perigosos-do-shell/) - Régis da Silva
