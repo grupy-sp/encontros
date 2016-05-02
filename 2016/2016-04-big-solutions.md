@@ -3,6 +3,7 @@
 ### Agradecimento especial a [Vinicius Mesel](http://www.vmesel.com/) e a [Big Solutions](http://www.bigsolutions.com.br/) pelo espaço cedido.
 
 ##[Tema: Deploys de forma fácil utilizando o Tsuru](https://speakerdeck.com/rafaelhenrique/deploys-de-forma-facil-com-tsuru)
+###[Vídeo](http://blog.abraseucodigo.com.br/video-deploys-de-forma-facil.html)
 *Palestrante:* Rafael Henrique
 
 ##[Tema: RESTful API - o que é, e o que quase é](https://speakerdeck.com/gabrielmarcondes/rest-in-peace)
