@@ -14,6 +14,8 @@ O grupo começou em Novembro de 2007 e desde então mantemos a tradição de um 
 
 - [Que tal rever algumas apresentações que fizemos até agora no GruPy-SP em 2016?](https://github.com/grupy-sp/encontros/tree/master/2016)
 
+- Veja [Como sincronizar o seu Fork com o repo principal](https://github.com/grupy-sp/encontros/wiki/Como-sincronizar-o-seu-Fork-com-o-repo-principal)
+
 ### Redes sociais:
 
 * [Facebook](https://www.facebook.com/grupysp)
