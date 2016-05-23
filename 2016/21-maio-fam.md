@@ -2,7 +2,28 @@
 
 Por favor, palestrantes dêem fork deste arquivo para podermos adicionar a todas as palestras apresentadas no dia
 
-[## GeoMath - Resolvendo problemas de Geometria Analítica em Python](http://www.geomath.co)
-Palestrante: Vinicius Mesel
-Vídeo da Apresentação: https://www.youtube.com/watch?v=bqMgMQr2xfg&feature=youtu.be
-Link importante: http://geomath.co
+##Aprendendo Python, parte 2
+*Palestrante:* Erick Müller
+
+##Django Rest Framework and Class Based View 
+*Palestrante:* Regis da Silva Santos
+
+##Python e IoT (Internet of Things) uma parceria de sucesso! 
+*Palestrante:* Rafael Henrique
+
+##[Python & Neo4j](https://speakerdeck.com/renanpalmeira5/python-and-neo4j)
+*Palestrante:* Renan Palmeira Santos
+
+*Github:* https://github.com/renanpalmeira
+
+##Dev/deploy Python em 5 minutos
+*Palestrante:* Leandro Teixeira 
+
+##[GeoMath - Resolvendo problemas de Geometria Analítica em Python](http://www.geomath.co)
+*Palestrante:* Vinicius Mesel
+
+*Vídeo da Apresentação:* https://www.youtube.com/watch?v=bqMgMQr2xfg&feature=youtu.be
+
+*Link importante:* http://geomath.co
+
+*Github:* https://github.com/vmesel
