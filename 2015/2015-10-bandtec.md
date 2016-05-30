@@ -38,7 +38,5 @@ Vamos sair do básico em modelagem de dados explorando ao máximo o ORM do Djang
 
 [+ slides on speakerdeck](https://speakerdeck.com/rg3915/explorando-o-orm-do-django)
 
-
-
-
+[+ video on YouTube](https://youtu.be/z5al68rhM_o)
 
