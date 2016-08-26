@@ -29,6 +29,6 @@ Escreva um programa que receba a localização de cada um dos seus amigos e, par
 
 Veja aqui o código:
 
-[main.py](https://github.com/grupy-sp/encontros/tree/master/2016/dojo/main.py)
+[main.py](https://github.com/grupy-sp/encontros/tree/master/2016/dojo_imasters_2016_08_24/main.py)
 
-[test_main.py](https://github.com/grupy-sp/encontros/tree/master/2016/dojo/test_main.py)
+[test_main.py](https://github.com/grupy-sp/encontros/tree/master/2016/dojo_imasters_2016_08_24/test_main.py)
