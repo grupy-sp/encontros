@@ -18,12 +18,12 @@ O grupo começou em Novembro de 2007 e desde então mantemos a tradição de um 
 
 ### Redes sociais:
 
+* [Meetup](http://www.meetup.com/pt-BR/Grupy-SP/)
+* [Telegram](https://telegram.me/joinchat/CquhWAgxneh4k9v6CQH0wg)
 * [Facebook](https://www.facebook.com/grupysp)
-* [Google Plus](https://plus.google.com/communities/117889929013238911492)
 * [Twitter](https://twitter.com/grupysp)
+* [Google Plus](https://plus.google.com/communities/117889929013238911492)
 * [Wiki](http://wiki.python.org.br/GrupySP)
 * [Slack](https://grupysp.herokuapp.com/)
 * [Flickr](https://www.flickr.com/photos/37128592@N03/albums)
-* [Telegram](https://telegram.me/joinchat/CquhWAgxneh4k9v6CQH0wg)
 * [IRC](http://webchat.freenode.net/?channels=grupy-sp)
-* [Meetup](http://www.meetup.com/pt-BR/Grupy-SP/)
