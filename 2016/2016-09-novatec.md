@@ -12,12 +12,12 @@ Slides: [SlideShare](http://pt.slideshare.net/ViniciusMesel/machine-learning-o-q
 ##Armazenamento Seguro de Senha no Banco de Dados para sua Aplicação
 Palestrante: Juliano Atanazio
 
-Slides: [SlideShare]() 
+Slides: [SlideShare](http://pt.slideshare.net/spjuliano) 
 
 ##Porquê Elm: chega de dor de cabeça com front-end, chega de JavaScript
 Palestrante: Eduardo Cuducos
 
-Slides
+Site: [cuducos.me](http://cuducos.me/)
 
 ## Links Importantes do Meetup
 - [Novatec](https://novatec.com.br/)
