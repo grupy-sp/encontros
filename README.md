@@ -26,3 +26,4 @@ O grupo começou em Novembro de 2007 e desde então mantemos a tradição de um 
 * [Flickr](https://www.flickr.com/photos/37128592@N03/albums)
 * [Telegram](https://telegram.me/joinchat/CquhWAgxneh4k9v6CQH0wg)
 * [IRC](http://webchat.freenode.net/?channels=grupy-sp)
+* [Meetup](http://www.meetup.com/pt-BR/Grupy-SP/)
