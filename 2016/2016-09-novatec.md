@@ -14,11 +14,6 @@ Palestrante: Juliano Atanazio
 
 Slides: [SlideShare]() 
 
-##O Linux venceu, mas todos nós perdemos!
-Palestrante: Paulo Kretcheu
-
-Slides
-
 ##Porquê Elm: chega de dor de cabeça com front-end, chega de JavaScript
 Palestrante: Eduardo Cuducos
 
