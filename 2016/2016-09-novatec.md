@@ -28,9 +28,9 @@ Palestrante: Eduardo Cuducos
 * [Link](http://catarse.me/serenata)
 
 ### Python Behave
-Palestrante:
+Palestrante: [Eduardo Mendes](https://github.com/z4r4tu5tr4/)
 
-* Código:
+* Código: [Github](https://github.com/z4r4tu5tr4/python-bdd-compare)
 
 ### GruPy-SP Sorocaba
 Palestrante: [Rafael Correia](http://blog.abraseucodigo.com.br/video-12-grupo-de-estudos-python.html)
