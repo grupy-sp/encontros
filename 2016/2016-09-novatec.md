@@ -19,6 +19,21 @@ Palestrante: Eduardo Cuducos
 
 Site: [cuducos.me](http://cuducos.me/)
 
+## Lightning Talks
+
+### Python BDD Compare
+
+Palestrante: Eduardo Mendes
+
+[link do projeto](https://github.com/z4r4tu5tr4/python-bdd-compare)
+
+### The Spreadsheet Quest
+
+Palestrante: [Henrique Bastos](http://henriquebastos.net/)
+
+[link do projeto](https://github.com/henriquebastos/the-spreadsheet-quest/)
+
+
 ## Links Importantes do Meetup
 - [Novatec](https://novatec.com.br/)
 - [Telegram](https://telegram.me/grupysaopaulo)
