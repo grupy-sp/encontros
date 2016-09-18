@@ -21,4 +21,4 @@ Site: [cuducos.me](http://cuducos.me/)
 
 ## Links Importantes do Meetup
 - [Novatec](https://novatec.com.br/)
-- [Telegram](https://telegram.me/joinchat/CquhWAgxneh4k9v6CQH0wg)
+- [Telegram](https://telegram.me/grupysaopaulo)
