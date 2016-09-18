@@ -21,11 +21,11 @@ Site: [cuducos.me](http://cuducos.me/)
 
 ## Lightning Talks
 
-### auto-behave
+### Python BDD Compare
 
 Palestrante: Eduardo Mendes
 
-[link do projeto](https://github.com/z4r4tu5tr4/auto-behave)
+[link do projeto](https://github.com/z4r4tu5tr4/python-bdd-compare)
 
 ### The Spreadsheet Quest
 
