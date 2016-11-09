@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Um número primo é definido se ele possuir exatamente dois divisores: o número um e ele próprio. São exemplos de números primos: 2, 3, 5, 101, 367 e 523.
 Neste problema, você deve ler uma palavra composta somente por letras [a-zA-Z]. Cada letra possui um valor específico, a vale 1, b vale 2 e assim por diante, até a letra z que vale 26. Do mesmo modo A vale 27, B vale 28, até a letra Z que vale 52.
@@ -12,7 +13,7 @@ True
 >>> palavra_prima('B')
 False
 >>> palavra_prima('grupy')
-True
+False
 >>> palavra_prima('aaaa')
 False
 >>> palavra_prima('aaa')
@@ -24,7 +25,7 @@ False
 >>> palavra_prima('G')
 False
 >>> soma_palavra('A')
-26
+27
 >>> soma_palavra('aaaa')
 4
 
@@ -38,11 +39,12 @@ import string
 
 #print(letras)
 def palavra_prima(palavra):
+    import math
     soma = soma_palavra(palavra)
-    if soma <= 1:
+    if soma == 1:
         return False
 
-    for i in range(1,soma//2+1):
+    for i in range(2, int(math.sqrt(soma))+1):
         if soma%i == 0:
             return False
 
@@ -51,9 +53,11 @@ def palavra_prima(palavra):
 def retorna_numero(letra):
     lista = list(string.ascii_letters)
     indice = lista.index(letra) + 1
+
     return indice
 
 def soma_palavra(palavra):
+
     soma = int()
     for letra in palavra:
         soma += retorna_numero(letra)
