@@ -1,0 +1,15 @@
+** POSITIVAS
+- Foi na IBM
+- Tivemos pizza
+- Bastante gente
+- Participação ativa
+- Galera super animada e participativa
+- Maior número de programadores do evento ficou com o Grupy =)
+- Conseguimos administrar bem os "afobadinhos" querendo fazer passos de gigante ao invés de baby steps
+
+** NEGATIVAS
+- Nem todos conseguiram participar
+- Não funcionou o pytest
+- Não deu tempo de dar o feedback na hora
+- Conversas paralelas
+- Pizza atrasou 40 min
