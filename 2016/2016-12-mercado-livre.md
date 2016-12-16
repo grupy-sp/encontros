@@ -1,0 +1,34 @@
+# [Mercado Livre][0] [Dezembro de 2016]
+
+Agradecemos ao [Mercado Livre][1] por nos ceder o espaço e coffee break para o evento.
+
+No dia 15 de dezembro de 2016 realizamos mais um encontro.
+
+## Palestras
+
+### Comandos com Python-Manage: Transforme suas funções em comandos e crie um REPL para seu projeto Python.
+
+Palestrante: [Bruno Rocha][2]
+
+Link do projeto: [manage][3]
+
+### [Sobre o workshop "Raspagem de Dados Para Mulheres"][4]
+
+Palestrante: Patricia Morimoto
+
+### Como ser um programador melhor?
+
+Palestrante: Marcos
+
+### WebSockets com o ESP8266 e MicroPython
+
+Palestrante: [Tiago Queiroz][5]
+
+
+
+[0]: https://www.meetup.com/pt-BR/Grupy-SP/events/235703207/
+[1]: http://www.mercadolivre.com.br/
+[2]: http://brunorocha.org/
+[3]: https://github.com/rochacbruno/manage
+[4]: http://www.slideshare.net/excermori/sobre-o-workshop-raspagem-de-dados-para-mulheres
+[5]: http://www.tiago.eti.br/
