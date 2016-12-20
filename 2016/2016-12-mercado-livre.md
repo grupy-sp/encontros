@@ -6,7 +6,7 @@ No dia 15 de dezembro de 2016 realizamos mais um encontro.
 
 ## Palestras
 
-### Comandos com Python-Manage: Transforme suas funções em comandos e crie um REPL para seu projeto Python.
+### [Comandos com Python-Manage: Transforme suas funções em comandos e crie um REPL para seu projeto Python][6]
 
 Palestrante: [Bruno Rocha][2]
 
@@ -16,11 +16,11 @@ Link do projeto: [manage][3]
 
 Palestrante: Patricia Morimoto
 
-### Como ser um programador melhor?
+### [Como ser um programador melhor?][8]
 
 Palestrante: Marcos
 
-### WebSockets com o ESP8266 e MicroPython
+### [WebSockets com o ESP8266 e MicroPython][7]
 
 Palestrante: [Tiago Queiroz][5]
 
@@ -32,3 +32,6 @@ Palestrante: [Tiago Queiroz][5]
 [3]: https://github.com/rochacbruno/manage
 [4]: http://www.slideshare.net/excermori/sobre-o-workshop-raspagem-de-dados-para-mulheres
 [5]: http://www.tiago.eti.br/
+[6]: https://github.com/rochacbruno/manage_example_grupy
+[7]: https://github.com/belimawr/experiments/tree/master/ESP8266_WebSocket
+[8]: http://www.slideshare.net/marcosptf/como-serumprogramadormelhor
