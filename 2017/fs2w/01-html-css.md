@@ -15,12 +15,18 @@ Veja também o [GitHub do Amir Elemam][5] usado no workshop e o site de exemplo 
 Vejam alguns videos no canal da Marcia Golfieri:
 
 [parte 1][7]
+
 [parte 2][8]
+
 [parte 3][9]
 
 E o screencast do Amir Elemam:
 
-*em breve*
+[parte 1][10]
+
+[parte 2][11]
+
+[parte 3][12]
 
 [0]: http://meetu.ps/356g6q
 [1]: https://rg3915.github.io/fs2w/
@@ -32,3 +38,6 @@ E o screencast do Amir Elemam:
 [7]: https://www.youtube.com/watch?v=hhQRE33IdvI
 [8]: https://www.youtube.com/watch?v=r_IEhp9QUGg
 [9]: https://www.youtube.com/watch?v=yQLwJzMu8Lg
+[10]: https://youtu.be/0G90bveKpHE
+[11]: https://youtu.be/fphgvzsLYMY
+[12]: https://youtu.be/KPxAvDyqs9Q
