@@ -6,7 +6,7 @@ No dia 31 de janeiro de 2017 realizamos nosso primeiro encontro do ano.
 
 ## Palestras
 
-### [Uma década de Python - um balanço de sucesso]
+### [Uma década de Python - um balanço de sucesso][2]
 
 Palestrante: Paulo Scardine
 
