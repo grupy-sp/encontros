@@ -24,7 +24,7 @@ Palestrante: Maurício Freitas
 
 
 
-[0]: https://www.meetup.com/pt-BR/Grupy-SP/events/LINK
+[0]: https://www.meetup.com/pt-BR/Grupy-SP/events/236963504/
 [1]: https://lojaintegrada.com.br/
 [2]: https://goo.gl/G0bCCj
 [3]: https://www.scribd.com/document/339429008/Grupy-Python-in-Rigid-Culture?secret_password=mPiNOOItMArQAzduXTF4
