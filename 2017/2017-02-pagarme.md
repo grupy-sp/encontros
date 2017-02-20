@@ -14,11 +14,11 @@ Palestrante: Eduardo Cuducos
 
 Palestrante: Geanderson Lenz
 
-### Turbolinks + PWA = Eu não posso acreditar que não é nativo!
+### [Turbolinks + PWA = Eu não posso acreditar que não é nativo!][4]
 
 Palestrante: Rodrigo Serradura
 
-### Django CMS: dá pra usar em um portal de grande porte?
+### [Django CMS: dá pra usar em um portal de grande porte?][5]
 
 Palestrante: Paulo Scardine
 
@@ -27,3 +27,5 @@ Palestrante: Paulo Scardine
 [1]: https://pagar.me/
 [2]: https://serenatadeamor.org/
 [3]: http://pt.slideshare.net/GeandersonLenz/aplicaes-do-data-science-nos-negcios
+[4]: http://www.slideshare.net/serradura/turbolinks-5-pwa-progressive-web-apps
+[5]: https://docs.google.com/presentation/d/1rTnm-qrJhdSu1cVpJEPM3LqWr2Zsss3syOinL8j97oA/edit#slide=id.p
