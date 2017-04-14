@@ -10,7 +10,7 @@ No dia 30 de março de 2017 realizamos nosso terceiro encontro mensal, dessa vez
 
 Palestrante: Luciana Telles
 
-### Como criar chatbots conectivos
+### [Como criar chatbots conectivos][4]
 
 Palestrante: Marco Bruno
 
@@ -33,3 +33,4 @@ uhhuuuu!!!
 [1]: https://www.vivareal.com.br/
 [2]: https://speakerdeck.com/takitaa/inovacao-e-tecnologia-ate-onde-voce-esta-disposto-a-ir
 [3]: https://www.slideshare.net/marcosptf/acessibilidade-paradeficientesvisuaiscompythonv2
+[4]: https://labs.getninjas.com.br/como-criar-um-chatbot-no-telegram-em-nodejs-b5ad0e1b4a9
