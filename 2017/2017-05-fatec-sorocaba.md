@@ -39,4 +39,5 @@ Palestrante: Leandro Mendes Ferreira
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/239145587
 [1]: http://www.fatecsorocaba.edu.br/
 [4]: https://speakerdeck.com/rafaelhenrique/restfull-o-mito
+[5]: https://speakerdeck.com/rg3915/frontend-grupy-fatec-sorocaba
 [8]: https://gist.github.com/rafaelhenrique/2473514b994cfe52c2d62b4f29271fbb
