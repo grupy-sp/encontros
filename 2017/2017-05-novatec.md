@@ -40,7 +40,12 @@ Palestrante: Rodolfo Daniels
 
 ### Polígonos, pontos e outras geometrias no Shapely (GIS)
 
-Palestrante: Danilo Bellini
+Palestrante: [Danilo J. S. Bellini](https://github.com/danilobellini)
+
+[Slides no SlideShare](https://www.slideshare.net/djsbellini/20170527-grupysp-polgonos-pontos-e-outras-geometrias-no-shapely-gis)
+
+[IPython Notebook no GitHub](https://github.com/danilobellini/notebooks/blob/master/2017-05-27_Shapely.ipynb)
+
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/240054524/
 [1]: http://ctnovatec.com.br/
