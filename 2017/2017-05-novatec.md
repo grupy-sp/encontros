@@ -20,9 +20,11 @@ Palestrante: Eduardo Mendes
 
 
 
-### Como emitir NFe Paulistana com Python
+### [Como emitir NFe Paulistana com Python][6]
 
 Palestrante: Paulo Scardine
+
+E código fonte no [gist][7]
 
 
 
@@ -53,3 +55,5 @@ Palestrante: [Danilo J. S. Bellini][2]
 [3]: https://www.slideshare.net/djsbellini/20170527-grupysp-polgonos-pontos-e-outras-geometrias-no-shapely-gis
 [4]: https://github.com/danilobellini/notebooks/blob/master/2017-05-27_Shapely.ipynb
 [5]: https://www.slideshare.net/mobile/RodolfoGarcia14/pitch-para-startups
+[6]: https://goo.gl/zWHixW
+[7]: https://gist.github.com/scardine/ee6016c41c5cabcb36919cd680843e53
