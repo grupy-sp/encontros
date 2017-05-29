@@ -22,7 +22,7 @@ Palestrante: Eduardo Mendes
 
 ### [Como emitir NFe Paulistana com Python][6]
 
-Palestrante: Paulo Scardine
+Palestrante: [Paulo Scardine][8]
 
 E código fonte no [gist][7]
 
@@ -57,3 +57,4 @@ Palestrante: [Danilo J. S. Bellini][2]
 [5]: https://www.slideshare.net/mobile/RodolfoGarcia14/pitch-para-startups
 [6]: https://goo.gl/zWHixW
 [7]: https://gist.github.com/scardine/ee6016c41c5cabcb36919cd680843e53
+[8]: https://github.com/scardine
