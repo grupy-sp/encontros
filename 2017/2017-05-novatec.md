@@ -28,7 +28,7 @@ E código fonte no [gist][7]
 
 
 
-### Diferentes métodos de visualização de dados e suas aplicações
+### [Diferentes métodos de visualização de dados e suas aplicações][9]
 
 Palestrante: Cesar Merjan
 
@@ -58,3 +58,4 @@ Palestrante: [Danilo J. S. Bellini][2]
 [6]: https://goo.gl/zWHixW
 [7]: https://gist.github.com/scardine/ee6016c41c5cabcb36919cd680843e53
 [8]: https://github.com/scardine
+[9]: https://github.com/rg3915/fs2w/tree/master/material/business_intelligence
