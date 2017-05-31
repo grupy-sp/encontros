@@ -8,9 +8,9 @@ No dia 27 de Maio de 2017 realizamos o quinto encontro mensal.
 
 ## Palestras
 
-### Hash em tudo: como e onde estão dicionários em Python
+### [Hash em tudo: como e onde estão dicionários em Python][10]
 
-Palestrante: Francisco Fernandes
+Palestrante: [Francisco Fernandes][11]
 
 
 
@@ -59,3 +59,5 @@ Palestrante: [Danilo J. S. Bellini][2]
 [7]: https://gist.github.com/scardine/ee6016c41c5cabcb36919cd680843e53
 [8]: https://github.com/scardine
 [9]: https://github.com/rg3915/fs2w/tree/master/material/business_intelligence
+[10]: http://chicaofernandes.info/talks/hash-em-tudo/index.html#intro
+[11]: https://twitter.com/__chicao__
