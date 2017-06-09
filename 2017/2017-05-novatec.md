@@ -14,9 +14,9 @@ Palestrante: [Francisco Fernandes][11]
 
 
 
-### Pode dar bom (pdb) - reflexões filosóficas sobre desenvolver sem testar
+### [Pode dar bom (pdb) - reflexões filosóficas sobre desenvolver sem testar][12]
 
-Palestrante: Eduardo Mendes
+Palestrante: [Eduardo Mendes][13]
 
 
 
@@ -61,3 +61,5 @@ Palestrante: [Danilo J. S. Bellini][2]
 [9]: https://github.com/rg3915/fs2w/tree/master/material/business_intelligence
 [10]: http://chicaofernandes.info/talks/hash-em-tudo/index.html#intro
 [11]: https://twitter.com/__chicao__
+[12]: https://github.com/z4r4tu5tr4/slides/tree/master/debugger
+[13]: https://github.com/z4r4tu5tr4
