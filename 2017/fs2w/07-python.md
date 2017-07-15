@@ -6,9 +6,10 @@ Agradecemos a **IBM** pela parceria em nos fornecer o espaço.
 
 ## Material
 
-O material do workshop está disponível em breve.
+O material do workshop está disponível [aqui][4].
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/239915770/
 [1]: https://rg3915.github.io/fs2w/
 [2]: https://twitter.com/beatrizuezu
 [3]: https://www.meetup.com/pt-BR/PyLadiesSP/
+[4]: https://github.com/rg3915/fs2w/blob/master/material/Grupy_PLSP_Interm_v2.pdf
