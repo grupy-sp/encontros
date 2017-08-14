@@ -23,7 +23,7 @@ Palestrante: [Rafael Henrique da Silva Correia][4]
 Palestrante: [Vinicius Fagundes][6]
 
 
-### Loja Conectada – como saímos do Java e estamos progredindo com o Python?
+### [Loja Conectada – como saímos do Java e estamos progredindo com o Python?][13]
 
 Palestrante: [Paulo Henrique][10]
 
@@ -51,3 +51,4 @@ Palestrante: [Danilo Bellini][9]
 [10]: https://www.facebook.com/phsantos.jr
 [11]: https://speakerdeck.com/rafaelhenrique/criando-aplicacoes-reais-de-iot-utilizando-a-nuvem
 [12]: https://www.slideshare.net/djsbellini/20170812-grupysp-audiolazy-no-grupy-lv2
+[13]: https://github.com/phsantosjr/lojaconectada/blob/master/Loja%20Conectada%20-%20Grupy-SP%20-%2012-08-2017.pdf
