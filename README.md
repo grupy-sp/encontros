@@ -2,9 +2,7 @@
 
 # Repositório do GruPy-SP - Grupo de usuários de Python do Estado de São Paulo
 
-O GruPy-SP é o Grupo de Usuários Python do Estado de São Paulo.
-
-O grupo começou em Novembro de 2007 e desde então mantemos a tradição de um encontro por mês, alternando fins de semana com dias de semana. Já fizemos reuniões tanto na capital como em outras cidades do estado, tais como Campinas, São José dos Campos, São Carlos, entre outros.
+O GruPy-SP é o Grupo de Usuários Python do Estado de São Paulo, que existe desde Novembro de 2007, mantendo a tradição de um encontro por mês (as vezes até mais), alternando as datas dos encontros entre fins de semana e dias úteis. As reuniões já aconteceram tanto na capital e também em outras cidades do estado (Campinas, São José dos Campos, São Carlos, entre outros) levando a alegria Python a todos.
 
 - [Quer organizar um evento do GruPy-SP? Veja nosso guia com todas as informações](https://github.com/grupy-sp/encontros/blob/master/como-organizar-um-grupysp.md)
 
