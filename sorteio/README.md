@@ -1,8 +1,8 @@
-#Script para sorteio de brindes nos encontros do GruPy-SP
+# Script para sorteio de brindes nos encontros do GruPy-SP
 
 Para rodar o script é necessário que tenha Python instalado em seu computador e que insira a lista dos presentes no encontro através da plataforma do Meetup.
 
-####O que é isso? É de comer?
+#### O que é isso? É de comer?
 
 É um script feito em python pelo [Mário Guedes](http://www.meetup.com/Grupy-SP/members/150470042/) para realização de sorteio de brindes.
 
@@ -11,7 +11,9 @@ Isso foi feito para facilitar a vida dos organizadores que realizam eventos atra
 Quando você exporta o arquivo .xls ou .csv do Meetup para criar a lista de presença, em uma das colunas há o perfil de cada participante do Meetup. Apenas pegando aquela coluna e inserindo no código, basta rodar o script e o navegador padrão da sua máquina irá abrir uma janela com o sorteado(a).
 
 Basta rodar:
-`python sorteio.py`
+```python
+python sorteio.py
+```
 
 Funciona tanto para Python 2 como para Python 3, graças a ajuda do Murilo Viana.
 
