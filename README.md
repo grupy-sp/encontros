@@ -17,7 +17,7 @@ O GruPy-SP é o Grupo de Usuários Python do Estado de São Paulo, que existe de
 ### Redes sociais:
 
 * [Meetup](http://www.meetup.com/pt-BR/Grupy-SP/)
-* [Telegram](https://telegram.me/joinchat/CquhWAgxneh4k9v6CQH0wg)
+* [Telegram](https://t.me/grupysaopaulo)
 * [Facebook](https://www.facebook.com/grupysp)
 * [Twitter](https://twitter.com/grupysp)
 * [Google Plus](https://plus.google.com/communities/117889929013238911492)
