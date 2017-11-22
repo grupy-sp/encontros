@@ -14,7 +14,7 @@ Agradecemos a [Bloomberg][1] por nos ceder espaço e coffee break. A [IDwall][2]
 Palestrante: Luciano Ramalho
 
 
-### Controlando o fluxo de forma simples para contruir pipelines complexas
+### [Controlando o fluxo de forma simples para contruir pipelines complexas][11]
 
 Palestrante: Juan Funez
 
@@ -79,3 +79,4 @@ Palestrante: [Regis Santos](https://github.com/rg3915/)
 [8]: https://pt.slideshare.net/rochacbruno/escrevendo-modulos-python-com-rust
 [9]: https://github.com/rochacbruno/rust-python-example
 [10]: https://github.com/rochacbruno
+[11]: https://www.slideshare.net/jfunez/controlando-o-fluxo-de-forma-simples-para-construir-pipelines-complexas
