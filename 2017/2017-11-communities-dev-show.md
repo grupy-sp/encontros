@@ -7,7 +7,7 @@ O evento foi no Google Campus.
 
 ## Palestras
 
-### De desenvolvedor backend a cientista de dados
+### [De desenvolvedor backend a cientista de dados][1]
 
 Palestrante: Rafael Novello
 
@@ -58,3 +58,4 @@ Palestrante: Jefferson Noronha
 
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/244141756/
+[1]: https://goo.gl/7Si15Z
