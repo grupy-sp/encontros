@@ -17,7 +17,7 @@ Palestrante: Rafael Novello
 Palestrante: Thiago Sanchez
 
 
-### Desenvolvendo a pipeline do BINGO
+### [Desenvolvendo a pipeline do BINGO][3]
 
 Palestrante: Karin Fornazier
 
@@ -42,7 +42,7 @@ Palestrante: Marcelo Castellani
 Palestrante: Alessandro Coutinho
 
 
-### Serverless com Python – Frameworks para o dia a dia
+### [Serverless com Python – Frameworks para o dia a dia][2]
 
 Palestrante: Francisco Pereira
 
@@ -59,3 +59,5 @@ Palestrante: Jefferson Noronha
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/244141756/
 [1]: https://goo.gl/7Si15Z
+[2]: https://docs.google.com/presentation/d/10xU-HX8NRZEI2zd3t8S3v9LeIpoxp55ynTptXczyP8I/edit?usp=sharing
+[3]: https://docs.google.com/presentation/d/1EfTfIUwP9N7O68DlhvGTm8Cj2UH_72-KdyHwMSlAYN4/edit?usp=sharing
