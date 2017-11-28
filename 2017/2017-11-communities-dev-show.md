@@ -60,4 +60,4 @@ Palestrante: Jefferson Noronha
 [5]: https://www.slideshare.net/jfnredes/images-deep-dive
 [6]: https://speakerdeck.com/grupysp/pyladies-2-anos-de-existencia
 [7]: https://speakerdeck.com/grupysp/principais-desafios-na-gestao-de-profisssionais-de-ti
-[8]: https://www.slideshare.net/serradura/programacao-funcional-que-funciona
+[8]: https://www.slideshare.net/serradura/programacao-funcional-que-funciona-82833588
