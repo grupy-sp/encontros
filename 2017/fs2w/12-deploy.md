@@ -4,8 +4,15 @@ No dia 02 de Dezembro de 2017 tivemos a décima segunda edição do [FS2W][1] co
 
 Agradecemos a [CargoBR][3] pela parceria em nos fornecer o espaço e coffee.
 
+## Material
+
+Veja os [slides][4].
+
+E o [material][5].
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/244125067/
 [1]: https://rg3915.github.io/fs2w/
 [2]: https://github.com/rafaelhenrique
 [3]: https://cargobr.com/
+[4]: https://speakerdeck.com/rafaelhenrique/vamos-fazer-deploy-pronto-e-quando-esta-online
+[5]: https://github.com/rafaelhenrique/amigo_secreto
