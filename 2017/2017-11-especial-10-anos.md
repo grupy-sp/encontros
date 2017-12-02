@@ -41,7 +41,7 @@ Jupyter: [notebook][7]
 Palestrante: Eduardo Carvalho
 
 
-### Gerenciando workflows de dados com o Apache-Airflow
+### [Gerenciando workflows de dados com o Apache-Airflow][12]
 
 Palestrante: Guilherme Marthe
 
@@ -80,3 +80,4 @@ Palestrante: [Regis Santos](https://github.com/rg3915/)
 [9]: https://github.com/rochacbruno/rust-python-example
 [10]: https://github.com/rochacbruno
 [11]: https://www.slideshare.net/jfunez/controlando-o-fluxo-de-forma-simples-para-construir-pipelines-complexas
+[12]: https://speakerdeck.com/grupysp/gerenciando-workflows-de-dados-com-o-apache-airflow
