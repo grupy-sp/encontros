@@ -4,8 +4,12 @@ No dia 23 de Setembro de 2017 tivemos a décima primeira edição do [FS2W][1] c
 
 Agradecemos a **Impacta** pela parceria em nos fornecer o espaço.
 
+## Material
+
+O material do workshop está disponível [aqui][4].
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/243292725/
 [1]: https://rg3915.github.io/fs2w/
 [2]: https://github.com/patymori
 [3]: https://djangogirls.org/saopaulo/
+[4]: https://goo.gl/7QsvYn
