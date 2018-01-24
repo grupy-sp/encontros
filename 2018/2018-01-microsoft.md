@@ -20,7 +20,7 @@ Palestrante: Alexandre Harano
 Palestrante: Carlos Dutra
 
 
-### Introdução a algoritmos genéticos
+### [Introdução a algoritmos genéticos](https://github.com/luizcavalcanti/genetic-algorithms)
 
 Palestrante: Luiz Carlos Cavalcanti
 
