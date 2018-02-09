@@ -1,8 +1,8 @@
-# [Encontro #2 de 2018 da capital][0] [Fevereiro de 2018]
+# [Encontro #2 de 2018 da capital][0]
 
-No dia 08 de Fevereiro de 2018 tivemos nosso encontro mensal.
+**Data:** 08 de Fevereiro de 2018
 
-Dessa vez o GruPy-SP foi na **NIC.br**.
+**Local:** NIC.br
 
 Agradecemos a **NIC.br** por nos ceder o espaço e coffee break.
 

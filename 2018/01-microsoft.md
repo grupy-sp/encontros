@@ -1,8 +1,8 @@
-# [Primeiro encontro de 2018][0] [Janeiro de 2018]
+# [Primeiro encontro de 2018][0]
 
-No dia 18 de Janeiro de 2018 tivemos nosso encontro mensal.
+**Data:** 18 de Janeiro de 2018
 
-Dessa vez o GruPy-SP foi na **Microsoft Brasil**.
+**Local:** Microsoft Brasil
 
 Agradecemos a **Microsoft Brasil** por nos ceder o espaço e coffee break.
 
