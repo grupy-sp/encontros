@@ -8,7 +8,7 @@ Agradecemos a **NIC.br** por nos ceder o espaço e coffee break.
 
 ## Palestras
 
-### Introdução a Cadeias de Markov e composição de sentenças
+### [Introdução a Cadeias de Markov e composição de sentenças][1]
 
 Palestrante: Francisco Fernandes
 
@@ -19,3 +19,4 @@ Palestrante: Paulo Scardine
 
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/247103787/
+[1]: http://talks.chicaofernandes.info/content/meetup_grupy_08022018/index.html#intro
