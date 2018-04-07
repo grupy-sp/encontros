@@ -6,6 +6,8 @@ Dessa vez o GruPy-SP foi na [Bloomberg][1].
 
 Agradecemos a [Bloomberg][1] por nos ceder espaço e coffee break. A [IDwall][2] pelo bolo e pelos adesivos. E a [Casa do Código][3] pelos e-books que foram sorteados.
 
+O encontro foi filmado, e o vídeo [está no YouTube](https://youtu.be/kDmsYpRuNPA).
+
 
 ## Lightning Talks
 
@@ -29,9 +31,9 @@ Palestrante: [Bernardo Fontes][5]
 Palestrante: Vinicius Mesel
 
 
-### Criando um OCR no scikit-learn!
+### [Criando um OCR no scikit-learn!](https://github.com/danilobellini/notebooks/blob/master/2017-11-13_OCR_GruPy-SP_10_anos.ipynb)
 
-Palestrante: Danilo Bellini
+Palestrante: [Danilo Bellini](https://github.com/danilobellini)
 
 
 ### [Desvendado o I-Ching com Python][6]
