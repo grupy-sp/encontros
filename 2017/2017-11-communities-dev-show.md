@@ -4,6 +4,8 @@ No dia 25 de Novembro de 2017 realizamos o Communities Dev Show - Encontro de Co
 
 O evento foi no Google Campus.
 
+[YouTube][9]
+
 
 ## Palestras
 
@@ -61,3 +63,4 @@ Palestrante: Jefferson Noronha
 [6]: https://speakerdeck.com/grupysp/pyladies-2-anos-de-existencia
 [7]: https://speakerdeck.com/grupysp/principais-desafios-na-gestao-de-profisssionais-de-ti
 [8]: https://www.slideshare.net/serradura/programacao-funcional-que-funciona-82833588
+[9]: https://www.youtube.com/watch?v=IIuEgwvkGa0&list=PLs0UShRCaojKIRALNkAvbb7GqAgY_82hJ
