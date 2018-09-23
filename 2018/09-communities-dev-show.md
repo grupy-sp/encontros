@@ -7,11 +7,6 @@ O evento foi na B2W.
 
 ## Palestras
 
-### [De desenvolvedor backend a cientista de dados][1]
-
-Palestrante: Rafael Novello
-
-
 ### The joy of composition
 
 Palestrante: [Eduardo Morango](https://github.com/edvmorango)
