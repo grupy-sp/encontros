@@ -17,7 +17,7 @@ Palestrante: [Eduardo Morango](https://github.com/edvmorango)
 Palestrante: [Zhang Yifei](https://github.com/zhangruoxu)
 
 
-### Construindo um front-end moderno com Vue.js
+### [Construindo um front-end moderno com Vue.js](https://speakerdeck.com/alefesouza/modern-front-end-development-with-vue-dot-js)
 
 Palestrante: [Alefe Souza](https://github.com/alefesouza)
 
