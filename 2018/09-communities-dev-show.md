@@ -47,7 +47,7 @@ Palestrante: [Rafael Henrique da Silva Correia](https://github.com/rafaelhenriqu
 Palestrante: Fernando Diaz
 
 
-### O que é desenvolvimento seguro, DevSecOps e S-SDLC
+### [O que é desenvolvimento seguro, DevSecOps e S-SDLC](https://www.slideshare.net/cassiobp/o-que-desenvolvimento-seguro-devsecops-e-ssdlc)
 
 Palestrante: [Cassio Batista Pereira](https://github.com/cassiodeveloper)
 
