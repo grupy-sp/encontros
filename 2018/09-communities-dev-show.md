@@ -12,7 +12,7 @@ O evento foi na B2W.
 Palestrante: [Eduardo Morango](https://github.com/edvmorango)
 
 
-### Marvin AI: Abstração e padronização em projeto de Machine Learning
+### [Marvin AI: Abstração e padronização em projeto de Machine Learning](https://pt.slideshare.net/zhangyifei1/marvinai-um-projeto-open-source-para-entregar-e-gerenciar-projetos-de-ml-116314696)
 
 Palestrante: [Zhang Yifei](https://github.com/zhangruoxu)
 
