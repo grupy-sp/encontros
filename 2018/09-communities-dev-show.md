@@ -32,7 +32,7 @@ Palestrante: [Eduardo Mendes](https://github.com/dunossauro)
 Palestrante: [Victor Sprengel](https://github.com/victorsprengel)
 
 
-### Elasticsearch e Python para monitorar e previnir falhas na sua aplicação
+### [Elasticsearch e Python para monitorar e previnir falhas na sua aplicação](https://speakerdeck.com/rafegal/elasticsearch-e-python-para-monitorar-e-corrigir-falhas-na-sua-aplicacao)
 
 Palestrante: [Rafael Galleani](https://github.com/rafegal)
 
