@@ -27,7 +27,7 @@ Palestrante: [Alefe Souza](https://github.com/alefesouza)
 Palestrante: [Eduardo Mendes](https://github.com/dunossauro)
 
 
-### Data science em prática: Como utilizamos dados para prever o roubo de carga (Cobli + Souza Cruz)
+### Data science em prática: Eficiência logística através da redução do roubo de carga
 
 Palestrante: [Victor Sprengel](https://github.com/victorsprengel)
 
