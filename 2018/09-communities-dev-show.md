@@ -42,7 +42,7 @@ Palestrante: [Rafael Galleani](https://github.com/rafegal)
 Palestrante: [Rafael Henrique da Silva Correia](https://github.com/rafaelhenrique)
 
 
-### Log Aggregation Solution EKK
+### [Log Aggregation Solution EKK](https://docs.google.com/presentation/d/1pe64AUp3fvvWby-7-kRz_mkzAbnaUKJp26ZFK9pTNKw/edit?usp=sharing)
 
 Palestrante: Fernando Diaz
 
