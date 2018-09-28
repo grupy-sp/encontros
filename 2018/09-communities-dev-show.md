@@ -44,7 +44,7 @@ Palestrante: [Rafael Henrique da Silva Correia](https://github.com/rafaelhenriqu
 
 ### [Log Aggregation Solution EKK](https://docs.google.com/presentation/d/1pe64AUp3fvvWby-7-kRz_mkzAbnaUKJp26ZFK9pTNKw/edit?usp=sharing)
 
-Palestrante: Fernando Diaz
+Palestrante: [Fernando Diaz](https://github.com/fndiaz)
 
 
 ### [O que é desenvolvimento seguro, DevSecOps e S-SDLC](https://www.slideshare.net/cassiobp/o-que-desenvolvimento-seguro-devsecops-e-ssdlc)
