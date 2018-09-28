@@ -7,7 +7,7 @@ O evento foi na B2W.
 
 ## Palestras
 
-### The joy of composition
+### [The joy of composition](https://drive.google.com/file/d/1ItrGS7J9fFlvCMzg8LXJ-lOm8efE5WzN/view)
 
 Palestrante: [Eduardo Morango](https://github.com/edvmorango)
 
