@@ -37,7 +37,7 @@ Palestrante: [Victor Sprengel](https://github.com/victorsprengel)
 Palestrante: [Rafael Galleani](https://github.com/rafegal)
 
 
-### Arquitetura resiliente usando microserviços
+### [Arquitetura resiliente usando microserviços](https://speakerdeck.com/rafaelhenrique/arquitetura-resiliente-usando-microservicos-f9f6001d-0984-435f-a78f-55dd5f7e6187)
 
 Palestrante: [Rafael Henrique da Silva Correia](https://github.com/rafaelhenrique)
 
