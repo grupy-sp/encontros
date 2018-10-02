@@ -22,7 +22,7 @@ Palestrante: [Zhang Yifei](https://github.com/zhangruoxu)
 Palestrante: [Alefe Souza](https://github.com/alefesouza)
 
 
-### Coma seus vegetais
+### [Coma seus vegetais](https://github.com/dunossauro/slides/blob/master/Coma%20seus%20vegetais%20v3.pdf)
 
 Palestrante: [Eduardo Mendes](https://github.com/dunossauro)
 
