@@ -33,7 +33,7 @@ Palestrante: Caroline Dantas
 
 Palestrante: Gabriel Policante Araujo
 
-### Quem cuida do GruPy-SP?
+### [Quem cuida do GruPy-SP?](https://slides.com/regissilva/quem-cuida-do-grupy-sp/#/)
 
 Palestrante: [Regis Santos](https://github.com/rg3915)
 
