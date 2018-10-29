@@ -13,11 +13,11 @@ Palestrante: [Daniel Satiro](https://github.com/danielsatiro)
 
 Palestrante: [Letícia Pedroso](https://github.com/leticiaspedroso)
 
-### Breve workshop de Asyncio - live code de um exemplo simples de asyncio em Python
+### [Breve workshop de Asyncio - live code de um exemplo simples de asyncio em Python][1]
 
 Palestrante: [Paulo Scardine](https://github.com/scardine)
 
-### Remote - trabalhar em casa ganhando em dollar
+### [Remote - trabalhar em casa ganhando em dollar][1]
 
 Palestrante: [Paulo Scardine](https://github.com/scardine)
 
@@ -43,3 +43,4 @@ Palestrante: [Regis Santos](https://github.com/rg3915)
 
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/253991315/
+[1]: https://goo.gl/mzK7No
