@@ -25,9 +25,9 @@ Palestrante: [Paulo Scardine](https://github.com/scardine)
 
 Palestrante: [Eduardo Mendes](https://github.com/dunossauro)
 
-### Python Brasil: Como foi palestrar pela primeira vez no maior evento de Python do Brasil?
+### [Python Brasil: Como foi palestrar pela primeira vez no maior evento de Python do Brasil?](https://speakerdeck.com/caaddss/python-brasil-como-foi-apresentar-no-maior-evento-de-python-do-pais)
 
-Palestrante: Caroline Dantas
+Palestrante: [Caroline Dantas](https://github.com/caaddss)
 
 ### Infraestrutura ágil com praticas devops
 
