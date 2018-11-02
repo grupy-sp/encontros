@@ -29,7 +29,7 @@ Palestrante: [Eduardo Mendes](https://github.com/dunossauro)
 
 Palestrante: [Caroline Dantas](https://github.com/caaddss)
 
-### Infraestrutura ágil com praticas devops
+### [Infraestrutura ágil com praticas devops](https://github.com/grupy-sp/encontros/blob/master/slides/infraestrutura-agil-automatizando-o-processo-de-deploy.pdf)
 
 Palestrante: Gabriel Policante Araujo
 
