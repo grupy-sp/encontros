@@ -5,7 +5,7 @@ No dia 10 de Novembro de 2018 realizamos o Grupy-SP e Grupy-ABC na Loggi.
 
 ## Palestras
 
-### Desenhando doideras com Python
+### [Desenhando doideras com Python][12]
 
 Palestrante: [Bernardo Fontes][1]
 
@@ -53,3 +53,4 @@ Palestrante: [Danilo Bellini][7]
 [9]: https://gist.github.com/rafaelhenrique/f18bbfafd3c9066f3eca3f1f024937ed
 [10]: https://slides.com/regissilva/backend-tentando-fazer-o-trabalho-de-frontend-parte-2#/
 [11]: https://github.com/danilobellini/notebooks/blob/master/2018-11-10_Axelrod/2018-11-10_Axelrod.ipynb
+[12]: https://berinhard.github.io/talks/pybr_2018/index.html#/
