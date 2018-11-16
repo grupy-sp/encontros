@@ -9,7 +9,7 @@ No dia 10 de Novembro de 2018 realizamos o Grupy-SP e Grupy-ABC na Loggi.
 
 Palestrante: [Bernardo Fontes][1]
 
-### Como eu inseri Python em um ambiente dominado pelo Java
+### [Como eu inseri Python em um ambiente dominado pelo Java][13]
 
 Palestrante: [Rafael Galleani][2]
 
@@ -54,3 +54,4 @@ Palestrante: [Danilo Bellini][7]
 [10]: https://slides.com/regissilva/backend-tentando-fazer-o-trabalho-de-frontend-parte-2#/
 [11]: https://github.com/danilobellini/notebooks/blob/master/2018-11-10_Axelrod/2018-11-10_Axelrod.ipynb
 [12]: https://berinhard.github.io/talks/pybr_2018/index.html#/
+[13]: https://speakerdeck.com/rafegal/como-inseri-python-em-um-ambiente-javeiro
