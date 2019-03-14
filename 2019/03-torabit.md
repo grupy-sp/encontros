@@ -13,7 +13,7 @@ Palestrante: [Renan Moura][3]
 
 Palestrante: Lucas Barros
 
-### [Será que dá para fazer uma ligação entre George Boole e Ciência de dados?]
+### [Será que dá para fazer uma ligação entre George Boole e Ciência de dados?][4]
 
 Palestrante: Cássia Sampaio
 
@@ -24,3 +24,4 @@ Palestrante: Cássia Sampaio
 [1]: https://docs.google.com/presentation/d/1USEtWDIxycNXlONayfxxKjyG2BU6-jMKapUaG_cWPFE/edit#slide=id.g35f391192_00
 [2]: https://github.com/rvmoura96/introducao-consumo-apis
 [3]: https://github.com/rvmoura96/
+[4]: https://github.com/grupy-sp/encontros/blob/master/slides/o-que-george-boole-tem-a-ver-com-ciencia-de-dados_.pdf
