@@ -18,6 +18,15 @@ Palestrante: Lucas Barros
 Palestrante: Cássia Sampaio
 
 
+## Lightning Talks
+
+### [MyPy][6]
+
+Palestrante: [Regis Santos][7]
+
+### [black][5]
+
+Palestrante: [Eduardo Cuducos][8]
 
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/258740194/
@@ -25,3 +34,7 @@ Palestrante: Cássia Sampaio
 [2]: https://github.com/rvmoura96/introducao-consumo-apis
 [3]: https://github.com/rvmoura96/
 [4]: https://github.com/grupy-sp/encontros/blob/master/slides/o-que-george-boole-tem-a-ver-com-ciencia-de-dados_.pdf
+[5]: https://github.com/ambv/black
+[6]: https://github.com/rg3915/python-experience/tree/master/mypy-examples
+[7]: https://github.com/rg3915
+[8]: https://github.com/cuducos
