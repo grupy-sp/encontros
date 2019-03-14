@@ -28,6 +28,10 @@ Palestrante: [Regis Santos][7]
 
 Palestrante: [Eduardo Cuducos][8]
 
+### [Estrutura básica e introdução a banco de dados com o Django-Admin][9] e [Digital Innovation One][11]
+
+Palestrante: [Rafael Galeanni][10]
+
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/258740194/
 [1]: https://docs.google.com/presentation/d/1USEtWDIxycNXlONayfxxKjyG2BU6-jMKapUaG_cWPFE/edit#slide=id.g35f391192_00
@@ -38,3 +42,6 @@ Palestrante: [Eduardo Cuducos][8]
 [6]: https://github.com/rg3915/python-experience/tree/master/mypy-examples
 [7]: https://github.com/rg3915
 [8]: https://github.com/cuducos
+[9]: https://events.genndi.com/register/818182175026330479/c3d9231ce5
+[10]: https://github.com/rafegal
+[11]: https://web.digitalinnovation.one/sign-in
