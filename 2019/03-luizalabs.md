@@ -7,7 +7,7 @@ No dia 30 de Março de 2019 realizamos o Grupy-SP na Torabit.
 
 ### Migrando sistemas legados com Python, Kafka, SQS e Kubernetes :)
 
-Palestrante: Francisco Pereira
+Palestrante: [Francisco Pereira](https://github.com/shikow) e [Marciel Torres](https://github.com/marcieltorres)
 
 ### Django ORM - Alem do get() e filter()
 
