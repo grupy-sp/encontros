@@ -5,13 +5,13 @@ No dia 30 de Março de 2019 realizamos o Grupy-SP na Torabit.
 
 ## Palestras
 
-### Migrando sistemas legados com Python, Kafka, SQS e Kubernetes :)
+### [Migrando sistemas legados com Python, Kafka, SQS e Kubernetes :)][1]
 
 Palestrante: [Francisco Pereira](https://github.com/shikow) e [Marciel Torres](https://github.com/marcieltorres)
 
-### Django ORM - Alem do get() e filter()
+### [Django ORM - Alem do get() e filter()][2]
 
-Palestrante: André Machado
+Palestrante: [André Machado][3]
 
 ### Levantamento de requisitos e as besteiras que a gente faz no processo
 
@@ -29,10 +29,10 @@ Palestrante: [Danilo Bellini](https://github.com/danilobellini)
 
 Palestrante: [Renzo Nuccitelli](https://github.com/renzon)
 
-### Quanto vale um cliente? - Usando Python para modelar Customer Lifetime Value
-
-Palestrante: Pedro Correia
 
 
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/259342871/
+[1]: https://docs.google.com/presentation/d/1EmsjjP8uYhbRKUJ7rQCj-c_LfDfwjw49i4F1xEmGd0I/edit#slide=id.p4
+[2]: https://speakerdeck.com/andresmachado/django-orm-alem-do-get-e-filter
+[3]: https://github.com/andresmachado
