@@ -17,7 +17,7 @@ Palestrante: [André Machado][3]
 
 Palestrante: [Jhonatan Teodoro](https://github.com/jhonatanlteodoro)
 
-### Quantas "línguas" você fala? E sua persistência; já é poliglota?
+### [Quantas "línguas" você fala? E sua persistência; já é poliglota?][4]
 
 Palestrante: Luciano Verissimo
 
@@ -36,3 +36,4 @@ Palestrante: [Renzo Nuccitelli](https://github.com/renzon)
 [1]: https://docs.google.com/presentation/d/1EmsjjP8uYhbRKUJ7rQCj-c_LfDfwjw49i4F1xEmGd0I/edit#slide=id.p4
 [2]: https://speakerdeck.com/andresmachado/django-orm-alem-do-get-e-filter
 [3]: https://github.com/andresmachado
+[4]: https://github.com/grupy-sp/encontros/blob/master/slides/persistencia-poliglota-v1.2-grupy_20190330.pdf
