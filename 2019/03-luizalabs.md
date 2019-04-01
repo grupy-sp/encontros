@@ -13,7 +13,7 @@ Palestrante: [Francisco Pereira](https://github.com/shikow) e [Marciel Torres](h
 
 Palestrante: [André Machado][3]
 
-### Levantamento de requisitos e as besteiras que a gente faz no processo
+### [Levantamento de requisitos e as besteiras que a gente faz no processo][5]
 
 Palestrante: [Jhonatan Teodoro](https://github.com/jhonatanlteodoro)
 
@@ -37,3 +37,4 @@ Palestrante: [Renzo Nuccitelli](https://github.com/renzon)
 [2]: https://speakerdeck.com/andresmachado/django-orm-alem-do-get-e-filter
 [3]: https://github.com/andresmachado
 [4]: https://github.com/grupy-sp/encontros/blob/master/slides/persistencia-poliglota-v1.2-grupy_20190330.pdf
+[5]: https://docs.google.com/presentation/d/1fTALATvrUQfhYYLELyfaMtAl-cb3AIXDLwvxylN9SM0/edit#slide=id.p
