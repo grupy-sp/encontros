@@ -21,11 +21,11 @@ Palestrante: [Jhonatan Teodoro](https://github.com/jhonatanlteodoro)
 
 Palestrante: Luciano Verissimo
 
-### Websockets: Criando uma sala de bate-papo com Sanic e Vanilla JS!
+### [Websockets: Criando uma sala de bate-papo com Sanic e Vanilla JS!][6]
 
 Palestrante: [Danilo Bellini](https://github.com/danilobellini)
 
-### Aprendendo com problema real: Pygseguro
+### [Aprendendo com problema real: Pygseguro][7]
 
 Palestrante: [Renzo Nuccitelli](https://github.com/renzon)
 
@@ -38,3 +38,5 @@ Palestrante: [Renzo Nuccitelli](https://github.com/renzon)
 [3]: https://github.com/andresmachado
 [4]: https://github.com/grupy-sp/encontros/blob/master/slides/persistencia-poliglota-v1.2-grupy_20190330.pdf
 [5]: https://docs.google.com/presentation/d/1fTALATvrUQfhYYLELyfaMtAl-cb3AIXDLwvxylN9SM0/edit#slide=id.p
+[6]: https://github.com/danilobellini/slides-latex/blob/master/2019-03-09_Sanic/slides.pdf
+[7]: https://github.com/renzon/pygseguro
