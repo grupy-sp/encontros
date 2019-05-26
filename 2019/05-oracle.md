@@ -10,7 +10,7 @@
 
 ### [Utilizando Kafka para comunicação entre Microserviços em Contêineres Docker][7]
 
-**Palestrante:** Andre Sampaio
+**Palestrante:** [Andre Sampaio][8]
 
 ### Validando e instanciando em cascata com DJango
 
@@ -24,3 +24,4 @@
 [5]: https://github.com/felipewove
 [6]: https://github.com/AdilsonTorres
 [7]: https://www.tonanuvem.net/meetup/grupy.pdf
+[8]: https://www.tonanuvem.net/
