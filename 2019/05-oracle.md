@@ -8,7 +8,7 @@
 
 **Palestrante:** [David Kwast][4]
 
-### Utilizando Kafka para comunicação entre Microserviços em Contêineres Docker
+### [Utilizando Kafka para comunicação entre Microserviços em Contêineres Docker][7]
 
 **Palestrante:** Andre Sampaio
 
@@ -23,3 +23,4 @@
 [4]: https://github.com/davidkwast
 [5]: https://github.com/felipewove
 [6]: https://github.com/AdilsonTorres
+[7]: https://www.tonanuvem.net/meetup/grupy.pdf
