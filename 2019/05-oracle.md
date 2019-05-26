@@ -12,7 +12,7 @@
 
 **Palestrante:** [Andre Sampaio][8]
 
-### Validando e instanciando em cascata com DJango
+### [Validando e instanciando em cascata com DJango][9]
 
 **Palestrante:** [Felipe Brigatto][5] e [Adilson Torres][6]
 
@@ -25,3 +25,4 @@
 [6]: https://github.com/AdilsonTorres
 [7]: https://www.tonanuvem.net/meetup/grupy.pdf
 [8]: https://www.tonanuvem.net/
+[9]: https://speakerdeck.com/felipebrigatto/project-in-django-growing-and-validating-with-django-signals
