@@ -4,7 +4,7 @@
 
 **Palestrante:** Victor RPB
 
-### COLABORADADOS: o veículo colaborativo sobre transparência e open data no Brasil.
+### [COLABORADADOS: o veículo colaborativo sobre transparência e open data no Brasil.][1]
 
 **Palestrante:** Judite Cypreste
 
@@ -19,3 +19,4 @@ Traçando um panomâma da evolução e desvendando o futuro da linguagem Python.
 **Participantes:** Luciano Ramalho, Roberta Takenaka e Ailton Filho
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/262237706/
+[1]: https://docs.google.com/presentation/d/1ez5eyim6s8y2Q2koAyplgm6487PVRNTRIUaaITX90aE/edit#slide=id.g4cda54ce45_0_0
