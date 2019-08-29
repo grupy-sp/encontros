@@ -1,4 +1,4 @@
-## [Grupy-SP de Julho em São Paulo][0] [Agosto 2019]
+## [Grupy-SP de Agosto em São Paulo][0] [Agosto 2019]
 
 ### [SOLID Python: Princípios SOLID em projetos Python][1]
 
