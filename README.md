@@ -10,6 +10,10 @@ O GruPy-SP é o Grupo de Usuários Python do Estado de São Paulo, que existe de
 
 - Veja [Como sincronizar o seu Fork com o repo principal](https://github.com/grupy-sp/encontros/wiki/Como-sincronizar-o-seu-Fork-com-o-repo-principal)
 
+## Calendário 2020
+
+Dá uma olhada no nosso [calendário 2020](https://github.com/grupy-sp/encontros/blob/master/2020/calendario.md)
+
 ### Redes sociais:
 
 * [Meetup](http://www.meetup.com/pt-BR/Grupy-SP/)
