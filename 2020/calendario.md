@@ -1,0 +1,11 @@
+# Calendário de eventos 2020
+
+Que tal ajudar a manter movimentada a comunidade mais amada de São Paulo? Nos ajude organizando uma edição do Grupy-SP! Se cada um de nós nos responsabilizarmos por organizar pelo menos uma edição por mês, teremos a garantia de muito Python o ano todo sem sobrecarregar ninguém \o/ 
+
+Comprou o desafio? Então bora lá e adiciona a sua edição aqui embaixo:
+
+| Data/Hora | Local | Título | Link | Responsáveis |
+|---|---|---|---|---|
+| 20/01/2020 (segunda) 19:00 | Sky.One Solutions (Av. das Nações Unidas, 12399 · São Paulo)  | GruPy de DevOps - Sky.One | https://www.meetup.com/Grupy-SP/events/267066954/ | Vinicius Mesel (@vmesel) Edson (@edinhodiluviano) |
+|   |   |   |   |   |
+|   |   |   |   |   |
