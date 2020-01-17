@@ -8,5 +8,5 @@ Comprou o desafio? Então bora lá e adiciona a sua edição aqui embaixo:
 |---|---|---|---|---|
 | 20/01/2020 (segunda) 19:00 | Sky.One Solutions (Av. das Nações Unidas, 12399 · São Paulo)  | GruPy de DevOps - Sky.One | https://www.meetup.com/Grupy-SP/events/267066954/ | Vinicius Mesel (@vmesel) Edson (@edinhodiluviano) |
 | 06/02/2020 (quinta) 19:00 | Guia Bolso (R. Butantã, 194 - Pinheiros, São Paulo - SP)  | GruPy edição Carnaval | em breve | Pablo Aguillar (@thepabloaguilar) Paula Grangeiro (@paulagrangeiro) |
-| 18/02/2020 (sábado) 10:00 | Giant Steps (A definir o endereço)  | Giant SciPy | em breve | Vinicius Mesel (@vmesel) |
-| 18/04/2020 (terça) | FHO Uniararas em Araras | Primeiro Grupy-SP em Araras | em breve | Regis e Orlando Saraiva |
+| 18/02/2020 (terça) | Giant Steps (A definir o endereço)  | Giant SciPy | em breve | Vinicius Mesel (@vmesel) |
+| 18/04/2020 (sábado) | FHO Uniararas em Araras | Primeiro Grupy-SP em Araras | em breve | Regis e Orlando Saraiva |
