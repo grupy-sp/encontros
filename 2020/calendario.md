@@ -10,5 +10,5 @@ Comprou o desafio? Então bora lá e adiciona a sua edição aqui embaixo:
 | 06/02/2020 (quinta) 19:00 | Guia Bolso (R. Butantã, 194 - Pinheiros, São Paulo - SP)  | GruPy edição Carnaval | em breve | Pablo Aguillar (@thepabloaguilar) Paula Grangeiro (@paulagrangeiro) |
 | 15/02/2020 (sábado) | Giant Steps (A definir o endereço)  | Giant SciPy | em breve | Vinicius Mesel (@vmesel) |
 | 18/02/2020 (terça) |  Dafiti Group | PyData + GruPy  | em breve | Patricia Guisordi (@Patyhumanas), Edson (@edinhodiluviano), Ricardo (@ricoms) |
-| 14/03/2020 (sábado) | FATEC em Jundiai | Django Experience SP | em breve | Regis Santos (@rg3915) e Ana Carolina (@@anacls) |
+| 14/03/2020 (sábado) | FATEC em Jundiai | Django Experience SP | em breve | Regis Santos (@rg3915) e Ana Carolina (@anacls) |
 | 18/04/2020 (sábado) | FHO Uniararas em Araras | Primeiro Grupy-SP em Araras | em breve | Regis Santos (@rg3915) e Orlando Saraiva |
