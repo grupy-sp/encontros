@@ -4,9 +4,10 @@
 
 **Palestrante:** 
 
-### Existe teste de acessibilidade digital?
+### [Existe teste de acessibilidade digital?][1]
 
-**Palestrante:** 
+**Palestrante:** Flávio Correia e Maurício Pereiro
 
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/268168948/
+[1]: https://github.com/grupy-sp/encontros/blob/master/slides/existe-teste-de-acessibilidade-digital.pdf
