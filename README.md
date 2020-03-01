@@ -1,4 +1,4 @@
-![Grupy-SP](https://raw.githubusercontent.com/grupy-sp/logo/master/logo-grupy.png)
+![Grupy-SP](https://raw.githubusercontent.com/grupy-sp/logo/master/logo-grupy.png =350x350)
 
 # Repositório do GruPy-SP - Grupo de usuários de Python do Estado de São Paulo
 
