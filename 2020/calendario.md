@@ -11,5 +11,5 @@ Comprou o desafio? Então bora lá e adiciona a sua edição aqui embaixo:
 | <ul><li> [x] </li> | 15/02/2020 (sábado) | Giant Steps | Giant SciPy | https://www.meetup.com/pt-BR/Grupy-SP/events/268072921/ | Vinicius Mesel (@vmesel) |
 | <ul><li> [x] </li> | 18/02/2020 (terça) |  Dafiti Group | PyData + GruPy  | https://www.meetup.com/pt-BR/Grupy-SP/events/267948962/ | Patricia Guisordi (@Patyhumanas), Edson (@edinhodiluviano), Ricardo (@ricoms) |
 | <ul><li> [ ] </li> | 14/03/2020 (sábado) | FATEC em Jundiai | Django Experience SP | http://2020.djangoxp.python.org.br/ | Regis Santos (@rg3915) |
-| <ul><li> [ ] </li> | 19/03/2020 (quinta) | Revelo | Especial mês das mulheres | em breve | Regis Santos (@rg3915) |
+| <ul><li> [ ] </li> | 19/03/2020 (quinta) | Revelo | Especial mês das mulheres | https://www.meetup.com/pt-BR/Grupy-SP/events/269349674/ | Regis Santos (@rg3915) |
 | <ul><li> [ ] </li> | 18/04/2020 (sábado) | FHO Uniararas em Araras | Primeiro Grupy-SP em Araras | em breve | Regis Santos (@rg3915) e Orlando Saraiva |
