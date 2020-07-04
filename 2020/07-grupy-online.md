@@ -1,7 +1,5 @@
 ## [Python para Finanças - GruPy Online][0] [4 de Julho 2020]
 
-### Palestrantes:
-
 Meetup temático sobre mercado financeiro e python. Aberto a tod@s.
 Vamos abordar diversos temas sobre finanças e python. Unindo as duas temáticas e suas diversas abordagens.
 

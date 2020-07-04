@@ -14,6 +14,10 @@ O GruPy-SP é o Grupo de Usuários Python do Estado de São Paulo, que existe de
 
 Dá uma olhada no nosso [calendário 2020](https://github.com/grupy-sp/encontros/blob/master/2020/calendario.md)
 
+## Último encontro:
+
+[Python e finanças on line][1]
+
 ### Redes sociais:
 
 * [Meetup](http://www.meetup.com/pt-BR/Grupy-SP/)
@@ -25,3 +29,5 @@ Dá uma olhada no nosso [calendário 2020](https://github.com/grupy-sp/encontros
 * [Slack](https://grupysp.herokuapp.com/)
 * [Flickr](https://www.flickr.com/photos/37128592@N03/albums)
 * [IRC](http://webchat.freenode.net/?channels=grupy-sp)
+
+[1]: https://github.com/grupy-sp/encontros/blob/master/2020/07-grupy-online.md
