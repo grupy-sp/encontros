@@ -13,3 +13,4 @@ Comprou o desafio? Então bora lá e adiciona a sua edição aqui embaixo:
 | <ul><li> [ ] </li> | 14/03/2020 (sábado) | FATEC em Jundiai | Django Experience SP | CANCELADO :( | Regis Santos (@rg3915) |
 | <ul><li> [ ] </li> | 19/03/2020 (quinta) | Revelo | Especial mês das mulheres | CANCELADO :( | Regis Santos (@rg3915) |
 | <ul><li> [ ] </li> | 18/04/2020 (sábado) | FHO Uniararas em Araras | Primeiro Grupy-SP em Araras | CANCELADO :( | Regis Santos (@rg3915) e Orlando Saraiva |
+| <ul><li> [x] </li> | 04/07/2020 (sábado) | ON LINE | Python e finanças | https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/ | Vinicius Mesel (@vmesel) |
