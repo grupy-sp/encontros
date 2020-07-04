@@ -41,3 +41,4 @@ Desenvolvedor há mais de 10 anos, entusiasta de opensource e analise de dados q
 [2]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
 [3]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
 [4]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
+[5]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
