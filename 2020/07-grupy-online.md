@@ -11,9 +11,8 @@ https://youtu.be/R86LD9WHt0s
 [16:30 ~ 17:00 - Explorando os Dados Bancários da Crise de 2008 na Europa com Python][1]
 
 **Palestrante:** Iago Rosa
-Engenheiro Computacional (UFJF)
-Mestrando em Modelagem Computacional (PGMC/UFJF)
-Atua nas áreas de Machine Learning, Data Science e Modelos Baseados em Agentes aplicado ao Sistema Bancário.
+
+Engenheiro Computacional (UFJF). Mestrando em Modelagem Computacional (PGMC/UFJF). Atua nas áreas de Machine Learning, Data Science e Modelos Baseados em Agentes aplicado ao Sistema Bancário.
 
 [17:05 ~ 17:35 - Uma Estratégia de Quantitativa em Python.][2]
 
@@ -37,8 +36,8 @@ Desenvolvedor há mais de 10 anos, entusiasta de opensource e analise de dados q
 
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
-[1]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
-[2]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
+[1]: https://docs.google.com/presentation/d/12Xqjm1QgZrzHtCHJNBEAJG4oHatS6yGOiIatI79rRYE/edit?usp=sharing
+[2]: https://github.com/grupy-sp/encontros/blob/master/slides/lucas-vido.pdf
 [3]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
-[4]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
-[5]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
+[4]: https://docs.google.com/presentation/d/1IsPK8mYgAWNeHEZoPQzzLzSgNFXPao92fEG5QPLpGAY/edit?usp=sharing
+[5]: https://jonhnnyweslley.net/slides/grupy-formula-magica-joel-greenblatt/#/
