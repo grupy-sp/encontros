@@ -10,20 +10,28 @@ https://youtu.be/R86LD9WHt0s
 
 [16:30 ~ 17:00 - Explorando os Dados Bancários da Crise de 2008 na Europa com Python][1]
 
-Iago Rosa
+**Palestrante:** Iago Rosa
 Engenheiro Computacional (UFJF)
 Mestrando em Modelagem Computacional (PGMC/UFJF)
 Atua nas áreas de Machine Learning, Data Science e Modelos Baseados em Agentes aplicado ao Sistema Bancário.
 
-[17:05 ~ 17:35 - Uma Estratégia de Quantitativa em Python. por Lucas Vido][2]
+[17:05 ~ 17:35 - Uma Estratégia de Quantitativa em Python.][2]
 
-[17:40 ~ 18:30 - Como fazer um backtest de portfólio de ações 101 por Charles Kubudi][3]
+**Palestrante:** Lucas Vido
 
-[18:35 ~ 19:05 -Como montar carteiras de investimentos através de otimização multiobjetivo do pacote Platypus no Python por Davi Gotardelo][4]
 
+[17:40 ~ 18:30 - Como fazer um backtest de portfólio de ações 101][3]
+
+**Palestrante:**  Charles Kubudi
+
+[18:35 ~ 19:05 - Como montar carteiras de investimentos através de otimização multiobjetivo do pacote Platypus no Python][4]
+
+**Palestrante**: Davi Gotardelo
 Professor Adjunto de Finanças da UFRRJ e Doutorando em Modelagem Computacional pela UFJF
 
-[19:10 ~ 19:40 - Como montar uma carteira de investimentos utilizando a formula mágica de Joel Greenblatt por Jonhnny Weslley][5]
+[19:10 ~ 19:40 - Como montar uma carteira de investimentos utilizando a formula mágica de Joel Greenblatt][5]
+
+**Palestrante:** Jonhnny Weslley
 
 Desenvolvedor há mais de 10 anos, entusiasta de opensource e analise de dados que está se aventurando no mercado financeiro com ajuda do Python
 
