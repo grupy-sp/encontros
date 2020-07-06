@@ -36,6 +36,6 @@ Desenvolvedor há mais de 10 anos, entusiasta de opensource e analise de dados q
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
 [1]: https://docs.google.com/presentation/d/12Xqjm1QgZrzHtCHJNBEAJG4oHatS6yGOiIatI79rRYE/edit?usp=sharing
 [2]: https://github.com/grupy-sp/encontros/blob/master/slides/lucas-vido.pdf
-[3]: https://www.meetup.com/pt-BR/Grupy-SP/events/271239196/
+[3]: https://github.com/grupy-sp/encontros/blob/master/slides/bt_portfolio.slides%20(1)%20(1).html
 [4]: https://docs.google.com/presentation/d/1IsPK8mYgAWNeHEZoPQzzLzSgNFXPao92fEG5QPLpGAY/edit?usp=sharing
 [5]: https://jonhnnyweslley.net/slides/grupy-formula-magica-joel-greenblatt/#/
