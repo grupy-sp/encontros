@@ -1,10 +1,8 @@
 ## [Grupy Jundiai SP online][0] [06 de Agosto 2020]
 
-**Palestrantes:** 
-
 ### [PEP 622: Matching e "Switch case" vindo para o Python 3.10 - entendendo a proposta e um caso de uso prático][1]
 
-**Palestrantes:** JS Bueno
+**Palestrante:** JS Bueno
 
 PEP 622 - texto completo https://www.python.org/dev/peps/pep-0622/
 
